@@ -36,7 +36,46 @@
 
 ---
 
-## 🛠️ Technical Expertise
+## 🧰 Tech Stack
+
+| Category | Technologies |
+|:---|:---|
+| 🐍 **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| 🎨 **Frontend** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| 🗄️ **Database** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| 🖥️ **DevOps & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| 🔒 **Security** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) |
+| 🤖 **AI / LLM** | ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logo=openai&logoColor=white) |
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=darkhub&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🛡️ **Cisco NetAcad** — Cybersecurity Essentials
+- 🕵️ **TryHackMe** — Complete Learning Paths
+- 📄 **[نام مدرک دیگر]** — [مؤسسه صادرکننده / سال]
+
+---
+
+## 💬 Daily Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
 
 ### 🐍 Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -95,6 +134,28 @@ Beyond backend development, I design, test, and refine prompts to unlock the ful
 
 ---
 
+## ⏱️ Coding Activity
+
+<!--START_SECTION:waketime-->
+```text
+از Wakatime هنوز آمار دریافت نشده — بعد از چند روز استفاده از افزونه، این بخش به‌صورت خودکار (یا دستی) پر می‌شود.
+```
+<!--END_SECTION:waketime-->
+
+> برای فعال‌سازی خودکار این بخش، افزونه Wakatime را در VS Code نصب کن، در تنظیمات پروفایل گیت‌هابت گزینه "Update this section automatically" را از اپلیکیشن Wakatime فعال کن، و کامنت‌های `waketime` بالا را دست‌نخورده نگه دار.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/here-is-leo/here-is-leo/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,6 +181,7 @@ Beyond backend development, I design, test, and refine prompts to unlock the ful
 If you find my projects useful, consider supporting my work:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coffeebede.com/leo)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/here-is-leo)
 
 ---
 
