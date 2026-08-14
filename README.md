@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=200&section=header&text=ILYA%20FARAHANI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Backend%20Developer%20%E2%80%A2%20Linux%20%26%20Security%20Enthusiast&descAlignY=58&descSize=17&descColor=00FF41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=200&section=header&text=ILYA%20FARAHANI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&stroke=00FF41&strokeWidth=1&desc=Backend%20Developer%20%E2%80%A2%20Linux%20%26%20Security%20Enthusiast&descAlignY=58&descSize=17&descColor=00FF41" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=root%40leo%3A~%23+whoami;Backend+Developer+%7C+Python+%26+C%23;Linux+Power+User+%7C+Kali+Enthusiast;Breaking+Things+to+Build+Them+Better;Prompt+Engineer+for+Production+LLMs;echo+%22Let%27s+build+something.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=root%40leo%3A~%23+whoami;Backend+Developer+%7C+Python+%26+C%23;Linux+Power+User+%7C+Kali+Enthusiast;Breaking+Things+to+Build+Them+Better;Prompt+Engineer+for+Production+LLMs;echo+%22Let%27s+build+something.%22" alt="Typing SVG" />
 
 <br>
 
@@ -17,9 +17,14 @@ Backend Developer with 4–5 years of experience specializing in Python & C#, pa
 
 
 
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,50:0077FF,100:FF2E2E&height=3&section=header" width="88%"/>
+</div>
 
 ⚡ > whoami
 
@@ -161,6 +166,16 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
 
 <br>
 
+<div align="center">
+
+SYSTEM STATUS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=720&height=45&lines=%5BOK%5D+Backend+systems+online;%5BOK%5D+Linux+environment+loaded;%5BOK%5D+Security+toolkit+initialized;%5BOK%5D+Prompt+engineering+module+ready;%5BREADY%5D+Waiting+for+the+next+build..." alt="System Status"/>
+
+</div>
+
+<br>
+
 📜 Certifications
 
 <div align="center">
@@ -216,6 +231,10 @@ Beyond backend development, I design, test, and refine prompts to unlock the ful
 <td width="50%" valign="top">
 
 🛒 pos-system
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1700&pause=450&color=00FF41&center=true&vCenter=true&width=420&height=30&lines=POS+%2B+Inventory+%2B+Reporting;4-app+architecture;Role-based+access+%2B+automated+backups" alt="POS system animation"/>
+</div>
 
 Full-featured Point-of-Sale & inventory management system built as 4 separate apps — REST API backend, admin dashboard, cashier interface, and warehouse manager.
 
@@ -380,6 +399,10 @@ If you find my projects useful, consider supporting my work:
 
 Backend Developer · Python & C# Specialist · Linux & Kali Security Enthusiast
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=760&height=38&lines=BUILD+%7C+BREAK+%7C+LEARN+%7C+REPEAT;Backend+%C2%B7+Security+%C2%B7+AI;From+idea+to+production." alt="Footer animation"/>
+
+
+
 ⭐️ From here-is-leo
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=150&section=footer" width="100%"/>
@@ -394,7 +417,7 @@ Backend Developer · Python & C# Specialist · Linux & Kali Security Enthusiast
 
 🌐 نسخه فارسی
 
-<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D8%A8%DA%A9-%D8%A7%D9%86%D8%AF;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5+%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3;%D8%B9%D9%84%D8%A7%D9%82%D9%87%E2%80%8C%D9%85%D9%86%D8%AF+%D8%A8%D9%87+%D8%A7%D9%85%D9%86%DB%8C%D8%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D8%A8%DA%A9-%D8%A7%D9%86%D8%AF;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5+%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3;%D8%B9%D9%84%D8%A7%D9%82%D9%87%E2%80%8C%D9%85%D9%86%D8%AF+%D8%A8%D9%87+%D8%A7%D9%85%D9%86%DB%8C%D8%AA" alt="Typing SVG" />
 
 🐍 توسعه‌دهنده بک‌اند  •  🖥️ متخصص لینوکس  •  🔒 علاقه‌مند به امنیت
 
@@ -406,9 +429,14 @@ Backend Developer · Python & C# Specialist · Linux & Kali Security Enthusiast
 
 
 
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
+
+<div dir="rtl" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,50:0077FF,100:FF2E2E&height=3&section=header" width="88%"/>
+</div>
 
 ⚡ درباره من
 
@@ -536,6 +564,16 @@ Backend Developer · Python & C# Specialist · Linux & Kali Security Enthusiast
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=60&section=header&text=%D9%86%D8%B4%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20%DA%AF%DB%8C%D8%AA%E2%80%8C%D9%87%D8%A7%D8%A8&fontSize=24&fontColor=FFD700&fontAlignY=65" width="100%"/>
 
 
+
+</div>
+
+<br>
+
+<div dir="rtl" align="center">
+
+وضعیت سیستم
+
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=17&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=720&height=45&lines=%5BOK%5D+سیستم‌های+بک‌اند+فعال;%5BOK%5D+محیط+لینوکس+بارگذاری+شد;%5BOK%5D+ابزارهای+امنیتی+آماده;%5BOK%5D+ماژول+مهندسی+پرامپت+آماده;%5BREADY%5D+منتظر+پروژه+بعدی..." alt="وضعیت سیستم"/>
 
 </div>
 
