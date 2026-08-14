@@ -6,24 +6,23 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=here-is-leo&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/here-is-leo?style=for-the-badge&color=0077FF&labelColor=0D1117)
 
-**Backend Developer with 4–5 years of experience** specializing in Python & C#, passionate about Linux systems, network security, and Kali Linux. Solved every TryHackMe & NetAcad cybersecurity challenge available. Currently exploring the intersection of software engineering and Prompt Engineering.
 
-📍 Tehran, Iran &nbsp;|&nbsp; 💬 [Telegram](https://t.me/Here_is_leo) &nbsp;|&nbsp; ✉️ ilyafarahanii@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
+Backend Developer with 4–5 years of experience specializing in Python & C#, passionate about Linux systems, network security, and Kali Linux. Solved every TryHackMe & NetAcad cybersecurity challenge available. Currently exploring the intersection of software engineering and Prompt Engineering.
+
+📍 Tehran, Iran  |  💬 Telegram  |  ✉️ ilyafarahanii@gmail.com
+
+
+
+
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
 
-## ⚡ `> whoami`
+⚡ > whoami
 
-```yaml
 name:        Ilya Farahani
 role:        Backend Developer
 experience:  4-5 years
@@ -32,13 +31,31 @@ focus:       [APIs, Microservices, Databases, Security]
 os:          Linux (daily driver) + Kali Linux (offense)
 status:      Bridging Software Engineering ↔ Prompt Engineering
 location:    Tehran, Iran 🇮🇷
-```
 
-- 🔭 I'm a **Backend Developer** building reliable, scalable systems — APIs, microservices, and databases, end to end.
-- 🐧 I'm a **Linux power user** who lives in the terminal, and I bring that same rigor to **network security** and **Kali Linux**.
-- 🛡️ I've completed **every challenge** on **TryHackMe** and **NetAcad** — security isn't a hobby for me, it's a discipline.
-- 🤖 My special skill: **Prompt Engineering** — designing and optimizing prompts to get the most out of LLMs.
-- ⚡ Fun fact: *I can walk through a NetAcad lab in my sleep.*
+🔭 I'm a Backend Developer building reliable, scalable systems — APIs, microservices, and databases, end to end.
+
+🐧 I'm a Linux power user who lives in the terminal, and I bring that same rigor to network security and Kali Linux.
+
+🛡️ I've completed every challenge on TryHackMe and NetAcad — security isn't a hobby for me, it's a discipline.
+
+🤖 My special skill: Prompt Engineering — designing and optimizing prompts to get the most out of LLMs.
+
+⚡ Fun fact: I can walk through a NetAcad lab in my sleep.
+
+Backend Developer · Python · C# · JavaScript/TypeScript · Linux · Kali Linux · Security · Prompt Engineering
+
+<div align="center">
+
+┌──[ root@leo ]──[ ~/about ]
+│
+├─ name        :: Ilya Farahani
+├─ role        :: Backend Developer
+├─ stack       :: Python · C# · TypeScript
+├─ systems     :: Linux · APIs · Databases
+├─ security    :: Kali · Natas · NetAcad · TryHackMe
+└─ mindset     :: Build → Test → Break → Improve
+
+</div>
 
 <br>
 
@@ -50,25 +67,28 @@ location:    Tehran, Iran 🇮🇷
 <tr>
 <td width="33%" valign="top" align="center">
 
-<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gears.gif"/>
+<img width="60" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🏗️ Builder
+🏗️ Builder
+
 Full-stack backend systems from schema to deployment. REST APIs, microservices, role-based access, automated reporting & backups — I ship systems that don't fall over.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/eyes.gif"/>
+<img width="60" src="https://media.giphy.com/media/3o7btT1T9qpQZWhNlK/giphy.gif"/>
 
-### 🕵️ Breaker
+🕵️ Breaker
+
 Every TryHackMe room, every NetAcad lab, 35/35 OverTheWire Natas levels documented start to finish. I understand systems better by finding where they break.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif"/>
+<img width="60" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"/>
 
-### 🤖 Whisperer
+🤖 Whisperer
+
 Prompt Engineering as a craft, not a buzzword — structuring, testing, and refining prompts for real production LLM workflows.
 
 </td>
@@ -83,32 +103,32 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
 
 <div align="center">
 
-**🟢 Core — daily driver**
+🟢 Core — daily driver
 
 <img src="https://skillicons.dev/icons?i=python,cs,linux,nodejs&theme=dark" />
 
-**🔵 Backend & Data**
+🔵 Backend & Data
 
 <img src="https://skillicons.dev/icons?i=express,sqlite,mysql,prisma&theme=dark" />
 
-**🟣 Frontend**
+🟣 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,wordpress,ts&theme=dark" />
 
-**🔴 Security & Offense**
+🔴 Security & Offense
 
 <img src="https://skillicons.dev/icons?i=kali,wireshark&theme=dark" />
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
-**⚫ DevOps & Tooling**
+⚫ DevOps & Tooling
 
 <img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" />
 
-**🟡 AI / LLM**
+🟡 AI / LLM
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Workflows-10A37F?style=for-the-badge&logo=anthropic&logoColor=white)
+
+
 
 </div>
 
@@ -118,7 +138,6 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=DEV%20JOURNEY&fontSize=28&fontColor=FF2E2E&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
-```
 ~2021-2022   ●───  Started programming — first steps into backend development
                     │
    +2.5yr    ●───  Python deep-dive — building real backend systems & APIs
@@ -130,37 +149,39 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
              ●───  AI convergence — Prompt Engineering for production LLM systems
                     │
    NOW       ●───  Building pos-system · exploring agentic workflows
-```
 
 <br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=60&section=header&text=GITHUB%20TROPHIES&fontSize=26&fontColor=FFD700&fontAlignY=65" width="100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
 <br>
 
-## 📜 Certifications
+📜 Certifications
 
 <div align="center">
 
-| Certificate | Issuer | Status |
-|:---|:---|:---:|
-| 🛡️ Cybersecurity Essentials | Cisco NetAcad | ✅ Complete |
-| 🕵️ Complete Learning Paths | TryHackMe | ✅ Complete |
+Certificate
 
-</div>
+Issuer
 
-<br>
+Status
 
-## 💬 Daily Dev Quote
+🛡️ Cybersecurity Essentials
 
-<div align="center">
+Cisco NetAcad
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+✅ Complete
+
+🕵️ Complete Learning Paths
+
+TryHackMe
+
+✅ Complete
 
 </div>
 
@@ -172,15 +193,15 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
 
 <div align="center">
 
-🎯 **100%** NetAcad Cybersecurity Learning Paths &nbsp;|&nbsp; 🕵️ **Dozens** of TryHackMe Rooms Cleared &nbsp;|&nbsp; 🐧 **35/35** OverTheWire Natas Levels
+🎯 100% NetAcad Cybersecurity Learning Paths  |  🕵️ Dozens of TryHackMe Rooms Cleared  |  🐧 35/35 OverTheWire Natas Levels
 
-💼 **4–5 years** Professional Backend Development
+💼 4–5 years Professional Backend Development
 
 </div>
 
 <br>
 
-## ✨ Special Skill — Prompt Engineering
+✨ Special Skill — Prompt Engineering
 
 Beyond backend development, I design, test, and refine prompts to unlock the full potential of large language models — bridging traditional software engineering with modern AI workflows.
 
@@ -194,72 +215,78 @@ Beyond backend development, I design, test, and refine prompts to unlock the ful
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [pos-system](https://github.com/here-is-leo/pos-system)
-Full-featured Point-of-Sale & inventory management system built as **4 separate apps** — REST API backend, admin dashboard, cashier interface, and warehouse manager.
+🛒 pos-system
 
-**Highlights:** role-based access · invoicing with discounts & printing · stock tracking with change logs · customer settlements · Excel/PDF reporting · automated DB backups
+Full-featured Point-of-Sale & inventory management system built as 4 separate apps — REST API backend, admin dashboard, cashier interface, and warehouse manager.
 
-`Node.js` `Express` `Prisma` `SQLite` `React` `Next.js` `TypeScript`
+Highlights: role-based access · invoicing with discounts & printing · stock tracking with change logs · customer settlements · Excel/PDF reporting · automated DB backups
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=pos-system&theme=synthwave&hide_border=true)
+Node.js Express Prisma SQLite React Next.js TypeScript
+
+
 
 </td>
 <td width="50%" valign="top">
 
-### 🕸️ [overthewire-natas](https://github.com/here-is-leo/overthewire-natas)
-Complete bilingual (Persian/English) walkthrough for **all 35 levels** of OverTheWire Natas — web & server-side security concepts, vulnerabilities, exploitation code, and defense strategies.
+🕸️ overthewire-natas
 
-**Highlights:** neon UI · terminal simulator · bilingual documentation
+Complete bilingual (Persian/English) walkthrough for all 35 levels of OverTheWire Natas — web & server-side security concepts, vulnerabilities, exploitation code, and defense strategies.
 
-`HTML` `CSS` `JavaScript`
+Highlights: neon UI · terminal simulator · bilingual documentation
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=overthewire-natas&theme=synthwave&hide_border=true)
+HTML CSS JavaScript
+
+
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [V-Tunnel](https://github.com/here-is-leo/V-Tunnel)
+🌐 V-Tunnel
+
 Telegram Mini App for managing network tools — public DNS servers, MTProto proxies, and V2Ray configs.
 
-**Highlights:** dark glassmorphism UI · fully bilingual · Telegram-native
+Highlights: dark glassmorphism UI · fully bilingual · Telegram-native
 
-`Python` `HTML` `CSS` `JavaScript`
+Python HTML CSS JavaScript
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=V-Tunnel&theme=synthwave&hide_border=true)
+
 
 </td>
 <td width="50%" valign="top">
 
-### 📖 [kali-linux-complete-guide](https://github.com/here-is-leo/kali-linux-complete-guide)
+📖 kali-linux-complete-guide
+
 40+ page bilingual handbook for Kali Linux — installation, core pentesting tools, network scanning, password cracking, and web penetration testing.
 
-**Highlights:** Nmap · Wireshark · Metasploit · John the Ripper · interactive TOC · light/dark theme
+Highlights: Nmap · Wireshark · Metasploit · John the Ripper · interactive TOC · light/dark theme
 
-`HTML` `CSS` `JavaScript`
+HTML CSS JavaScript
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=kali-linux-complete-guide&theme=synthwave&hide_border=true)
+
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Bale-Bot](https://github.com/here-is-leo/Bale-Bot)
+🤖 Bale-Bot
+
 A messenger bot built in Python for the Bale platform.
 
-`Python`
+Python
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=Bale-Bot&theme=synthwave&hide_border=true)
+
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 What's next?
+🚀 What's next?
+
 Always open to collaborating on backend systems, security tooling, or LLM-powered workflows. Check out the pinned repos above ↑
 
-<img width="180" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif"/>
+<img width="180" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
 </td>
 </tr>
@@ -271,23 +298,27 @@ Always open to collaborating on backend systems, security tooling, or LLM-powere
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1a1a2e&height=90&section=header&text=2026%20GOALS&fontSize=26&fontColor=39FF14&fontAlignY=55" width="100%"/>
 </div>
 
-- [ ] 🐳 Deepen Docker & containerization skills for production-grade deployments
-- [ ] 🛡️ Advance further into offensive security with Kali Linux
-- [ ] 🤖 Refine advanced Prompt Engineering techniques for production LLM use
-- [ ] 🌍 Contribute to an open-source security or backend tooling project
-- [ ] 📚 Publish a new certification or learning path
+🐳 Deepen Docker & containerization skills for production-grade deployments
+
+🛡️ Advance further into offensive security with Kali Linux
+
+🤖 Refine advanced Prompt Engineering techniques for production LLM use
+
+🌍 Contribute to an open-source security or backend tooling project
+
+📚 Publish a new certification or learning path
 
 <br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=WEEKLY%20STATS&fontSize=28&fontColor=00FF41&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=synthwave&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=synthwave&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=0077FF&point=FF2E2E&area=true&area_color=00FF41)
+
+
+
+
 
 </div>
 
@@ -296,7 +327,7 @@ Always open to collaborating on backend systems, security tooling, or LLM-powere
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=CONTRIBUTION%20SNAKE&fontSize=26&fontColor=00FF41&fontAlignY=65" width="100%"/>
 
-![Snake animation](https://github.com/here-is-leo/here-is-leo/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
@@ -305,8 +336,9 @@ Always open to collaborating on backend systems, security tooling, or LLM-powere
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:1a1a2e&height=90&section=header&text=PHILOSOPHY&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 
-> ### 💬 "Security is not a product, but a process."
-> **— Bruce Schneier**
+💬 "Security is not a product, but a process."
+
+— Bruce Schneier
 
 I build things that work, then I try to break them — because a system you haven't attacked yourself isn't a system you understand. Backend code should be boring in the best way: predictable, documented, and hard to misuse. Everything else is where the interesting problems live.
 
@@ -322,23 +354,23 @@ I'm always up for a conversation about backend architecture, security tooling, o
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/here-is-leo/)
+
+
+
+
 
 </div>
 
 <br>
 
-## ☕ Support Me
+☕ Support Me
 
 If you find my projects useful, consider supporting my work:
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coffeebede.com/leo)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/here-is-leo)
+
+
 
 </div>
 
@@ -346,9 +378,9 @@ If you find my projects useful, consider supporting my work:
 
 <div align="center">
 
-**Backend Developer · Python & C# Specialist · Linux & Kali Security Enthusiast**
+Backend Developer · Python & C# Specialist · Linux & Kali Security Enthusiast
 
-⭐️ From [here-is-leo](https://github.com/here-is-leo)
+⭐️ From here-is-leo
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=150&section=footer" width="100%"/>
 
@@ -360,31 +392,50 @@ If you find my projects useful, consider supporting my work:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=200&section=header&text=%D8%A7%DB%8C%D9%84%DB%8C%D8%A7%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87%20%D8%A8%DA%A9%E2%80%8C%D8%A7%D9%86%D8%AF%20%E2%80%A2%20%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3%20%D9%88%20%D8%A7%D9%85%D9%86%DB%8C%D8%AA&descAlignY=58&descSize=15&descColor=00FF41" width="100%"/>
 
-# 🌐 نسخه فارسی
+🌐 نسخه فارسی
 
 <img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D8%A8%DA%A9-%D8%A7%D9%86%D8%AF;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5+%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3;%D8%B9%D9%84%D8%A7%D9%82%D9%87%E2%80%8C%D9%85%D9%86%D8%AF+%D8%A8%D9%87+%D8%A7%D9%85%D9%86%DB%8C%D8%AA" alt="Typing SVG" />
 
-### 🐍 توسعه‌دهنده بک‌اند &nbsp;•&nbsp; 🖥️ متخصص لینوکس &nbsp;•&nbsp; 🔒 علاقه‌مند به امنیت
+🐍 توسعه‌دهنده بک‌اند  •  🖥️ متخصص لینوکس  •  🔒 علاقه‌مند به امنیت
 
-**توسعه‌دهنده بک‌اند با ۴ تا ۵ سال سابقه کار**، متخصص در پایتون و سی‌شارپ، علاقه‌مند به سیستم‌های لینوکس، امنیت شبکه و کالی لینوکس. تمام چالش‌های امنیت سایبری TryHackMe و NetAcad را کامل حل کرده‌ام. در حال حاضر در حال کاوش در تلاقی مهندسی نرم‌افزار و مهندسی پرامپت هستم.
+توسعه‌دهنده بک‌اند با ۴ تا ۵ سال سابقه کار، متخصص در پایتون و سی‌شارپ، علاقه‌مند به سیستم‌های لینوکس، امنیت شبکه و کالی لینوکس. تمام چالش‌های امنیت سایبری TryHackMe و NetAcad را کامل حل کرده‌ام. در حال حاضر در حال کاوش در تلاقی مهندسی نرم‌افزار و مهندسی پرامپت هستم.
 
-📍 تهران، ایران &nbsp;|&nbsp; 💬 [تلگرام](https://t.me/Here_is_leo) &nbsp;|&nbsp; ✉️ ilyafarahanii@gmail.com
+📍 تهران، ایران  |  💬 تلگرام  |  ✉️ ilyafarahanii@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
+
+
+
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
 
-## ⚡ درباره من
+⚡ درباره من
 
-- 🔭 من یک **توسعه‌دهنده بک‌اند** هستم که سیستم‌های قابل‌اعتماد و مقیاس‌پذیر می‌سازم — از API تا میکروسرویس و دیتابیس.
-- 🐧 یک **کاربر حرفه‌ای لینوکس** هستم که در ترمینال زندگی می‌کنم، و همین دقت را در **امنیت شبکه** و **کالی لینوکس** هم دارم.
-- 🛡️ تمام چالش‌های **TryHackMe** و **NetAcad** را حل کرده‌ام — امنیت برای من یک سرگرمی نیست، یک نظم و دیسیپلین است.
-- 🤖 مهارت ویژه‌ام: **مهندسی پرامپت** — طراحی و بهینه‌سازی پرامپت‌ها برای بیشترین بهره از مدل‌های زبانی.
-- ⚡ نکته جالب: می‌توانم حتی در خواب هم یک آزمایشگاه NetAcad را حل کنم.
+🔭 من یک توسعه‌دهنده بک‌اند هستم که سیستم‌های قابل‌اعتماد و مقیاس‌پذیر می‌سازم — از API تا میکروسرویس و دیتابیس.
+
+🐧 یک کاربر حرفه‌ای لینوکس هستم که در ترمینال زندگی می‌کنم، و همین دقت را در امنیت شبکه و کالی لینوکس هم دارم.
+
+🛡️ تمام چالش‌های TryHackMe و NetAcad را حل کرده‌ام — امنیت برای من یک سرگرمی نیست، یک نظم و دیسیپلین است.
+
+🤖 مهارت ویژه‌ام: مهندسی پرامپت — طراحی و بهینه‌سازی پرامپت‌ها برای بیشترین بهره از مدل‌های زبانی.
+
+⚡ نکته جالب: می‌توانم حتی در خواب هم یک آزمایشگاه NetAcad را حل کنم.
+
+توسعه بک‌اند · Python · C# · JavaScript/TypeScript · Linux · Kali Linux · Security · Prompt Engineering
+
+<div dir="rtl" align="center">
+
+┌──[ root@leo ]──[ ~/about ]
+│
+├─ نام         :: ایلیا فراهانی
+├─ نقش         :: توسعه‌دهنده بک‌اند
+├─ استک        :: Python · C# · TypeScript
+├─ سیستم‌ها    :: Linux · API · Database
+├─ امنیت       :: Kali · Natas · NetAcad · TryHackMe
+└─ ذهنیت       :: ساخت → تست → شکستن → بهبود
+
+</div>
 
 <br>
 
@@ -396,25 +447,28 @@ If you find my projects useful, consider supporting my work:
 <tr>
 <td width="33%" valign="top" align="center">
 
-<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gears.gif"/>
+<img width="60" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🏗️ سازنده
+🏗️ سازنده
+
 سیستم‌های بک‌اند کامل از طراحی دیتابیس تا استقرار. API، میکروسرویس، دسترسی نقش‌محور، گزارش‌گیری و بک‌آپ خودکار — سیستم‌هایی می‌سازم که خراب نمی‌شوند.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/eyes.gif"/>
+<img width="60" src="https://media.giphy.com/media/3o7btT1T9qpQZWhNlK/giphy.gif"/>
 
-### 🕵️ شکننده
+🕵️ شکننده
+
 هر اتاق TryHackMe، هر آزمایشگاه NetAcad، تمام ۳۵ مرحله OverTheWire Natas مستندسازی شده. سیستم‌ها را بهتر از طریق پیدا کردن نقطه شکستشان می‌فهمم.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif"/>
+<img width="60" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"/>
 
-### 🤖 زمزمه‌گر
+🤖 زمزمه‌گر
+
 مهندسی پرامپت به‌عنوان یک هنر، نه یک کلمه مد روز — ساختاردهی، تست و اصلاح پرامپت‌ها برای گردش‌کارهای واقعی LLM در محیط تولید.
 
 </td>
@@ -429,32 +483,32 @@ If you find my projects useful, consider supporting my work:
 
 <div align="center">
 
-**🟢 هسته اصلی**
+🟢 هسته اصلی
 
 <img src="https://skillicons.dev/icons?i=python,cs,linux,nodejs&theme=dark" />
 
-**🔵 بک‌اند و داده**
+🔵 بک‌اند و داده
 
 <img src="https://skillicons.dev/icons?i=express,sqlite,mysql,prisma&theme=dark" />
 
-**🟣 فرانت‌اند**
+🟣 فرانت‌اند
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,wordpress,ts&theme=dark" />
 
-**🔴 امنیت و تهاجم**
+🔴 امنیت و تهاجم
 
 <img src="https://skillicons.dev/icons?i=kali,wireshark&theme=dark" />
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
-**⚫ DevOps و ابزارها**
+⚫ DevOps و ابزارها
 
 <img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" />
 
-**🟡 هوش مصنوعی**
+🟡 هوش مصنوعی
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Workflows-10A37F?style=for-the-badge&logo=anthropic&logoColor=white)
+
+
 
 </div>
 
@@ -464,7 +518,6 @@ If you find my projects useful, consider supporting my work:
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D9%85%D8%B3%DB%8C%D8%B1%20%D8%AA%D9%88%D8%B3%D8%B9%D9%87&fontSize=26&fontColor=FF2E2E&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
-```
 ۴-۵ سال پیش   ●───  شروع برنامه‌نویسی — اولین قدم‌ها در دنیای بک‌اند
                      │
    +۲.۵ سال   ●───  عمیق‌شدن در پایتون — ساخت سیستم‌های واقعی بک‌اند و API
@@ -476,37 +529,39 @@ If you find my projects useful, consider supporting my work:
               ●───  همگرایی با هوش مصنوعی — مهندسی پرامپت برای LLM در تولید
                      │
     اکنون     ●───  ساخت pos-system · کاوش در گردش‌کارهای عامل‌محور (Agentic)
-```
 
 <br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=60&section=header&text=%D9%86%D8%B4%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20%DA%AF%DB%8C%D8%AA%E2%80%8C%D9%87%D8%A7%D8%A8&fontSize=24&fontColor=FFD700&fontAlignY=65" width="100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
 <br>
 
-## 📜 گواهینامه‌ها
+📜 گواهینامه‌ها
 
 <div align="center">
 
-| گواهینامه | صادرکننده | وضعیت |
-|:---|:---|:---:|
-| 🛡️ Cybersecurity Essentials | سیسکو NetAcad | ✅ تکمیل‌شده |
-| 🕵️ مسیرهای آموزشی کامل | TryHackMe | ✅ تکمیل‌شده |
+گواهینامه
 
-</div>
+صادرکننده
 
-<br>
+وضعیت
 
-## 💬 نقل‌قول روزانه توسعه‌دهنده
+🛡️ Cybersecurity Essentials
 
-<div align="center">
+سیسکو NetAcad
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+✅ تکمیل‌شده
+
+🕵️ مسیرهای آموزشی کامل
+
+TryHackMe
+
+✅ تکمیل‌شده
 
 </div>
 
@@ -518,15 +573,15 @@ If you find my projects useful, consider supporting my work:
 
 <div align="center">
 
-🎯 **۱۰۰٪** مسیرهای امنیت سایبری NetAcad &nbsp;|&nbsp; 🕵️ **ده‌ها** اتاق TryHackMe حل‌شده &nbsp;|&nbsp; 🐧 **۳۵ از ۳۵** مرحله OverTheWire Natas
+🎯 ۱۰۰٪ مسیرهای امنیت سایبری NetAcad  |  🕵️ ده‌ها اتاق TryHackMe حل‌شده  |  🐧 ۳۵ از ۳۵ مرحله OverTheWire Natas
 
-💼 **۴ تا ۵ سال** تجربه حرفه‌ای توسعه بک‌اند
+💼 ۴ تا ۵ سال تجربه حرفه‌ای توسعه بک‌اند
 
 </div>
 
 <br>
 
-## ✨ مهارت ویژه — مهندسی پرامپت
+✨ مهارت ویژه — مهندسی پرامپت
 
 فراتر از توسعه بک‌اند، پرامپت‌ها را طراحی، آزمایش و اصلاح می‌کنم تا از حداکثر پتانسیل مدل‌های زبانی بزرگ استفاده کنم — پلی میان مهندسی نرم‌افزار سنتی و روندهای مدرن هوش مصنوعی.
 
@@ -540,72 +595,78 @@ If you find my projects useful, consider supporting my work:
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [pos-system](https://github.com/here-is-leo/pos-system)
-سیستم جامع فروش و مدیریت انبار (POS) متشکل از **۴ اپلیکیشن جداگانه** — بک‌اند API، پنل ادمین، سیستم فروشنده و سیستم انباردار.
+🛒 pos-system
 
-**ویژگی‌ها:** دسترسی نقش‌محور · فاکتور با تخفیف و چاپ · مدیریت موجودی با لاگ تغییرات · تسویه‌حساب مشتریان · گزارش‌گیری Excel/PDF · بک‌آپ خودکار
+سیستم جامع فروش و مدیریت انبار (POS) متشکل از ۴ اپلیکیشن جداگانه — بک‌اند API، پنل ادمین، سیستم فروشنده و سیستم انباردار.
 
-`Node.js` `Express` `Prisma` `SQLite` `React` `Next.js` `TypeScript`
+ویژگی‌ها: دسترسی نقش‌محور · فاکتور با تخفیف و چاپ · مدیریت موجودی با لاگ تغییرات · تسویه‌حساب مشتریان · گزارش‌گیری Excel/PDF · بک‌آپ خودکار
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=pos-system&theme=synthwave&hide_border=true)
+Node.js Express Prisma SQLite React Next.js TypeScript
+
+
 
 </td>
 <td width="50%" valign="top">
 
-### 🕸️ [overthewire-natas](https://github.com/here-is-leo/overthewire-natas)
-راهنمای آموزشی کامل و دوزبانه برای **تمام ۳۵ مرحله** چالش‌های Natas در OverTheWire — مفاهیم امنیت وب، آسیب‌پذیری‌ها، کد بهره‌برداری و راهکارهای دفاعی.
+🕸️ overthewire-natas
 
-**ویژگی‌ها:** رابط نئونی · شبیه‌ساز ترمینال · مستندسازی دوزبانه
+راهنمای آموزشی کامل و دوزبانه برای تمام ۳۵ مرحله چالش‌های Natas در OverTheWire — مفاهیم امنیت وب، آسیب‌پذیری‌ها، کد بهره‌برداری و راهکارهای دفاعی.
 
-`HTML` `CSS` `JavaScript`
+ویژگی‌ها: رابط نئونی · شبیه‌ساز ترمینال · مستندسازی دوزبانه
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=overthewire-natas&theme=synthwave&hide_border=true)
+HTML CSS JavaScript
+
+
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [V-Tunnel](https://github.com/here-is-leo/V-Tunnel)
+🌐 V-Tunnel
+
 Mini App تلگرام برای مدیریت ابزارهای شبکه — سرورهای DNS عمومی، پروکسی‌های MTProto و کانفیگ‌های V2Ray.
 
-**ویژگی‌ها:** طراحی تیره شیشه‌ای · کاملاً دوزبانه · بومی تلگرام
+ویژگی‌ها: طراحی تیره شیشه‌ای · کاملاً دوزبانه · بومی تلگرام
 
-`Python` `HTML` `CSS` `JavaScript`
+Python HTML CSS JavaScript
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=V-Tunnel&theme=synthwave&hide_border=true)
+
 
 </td>
 <td width="50%" valign="top">
 
-### 📖 [kali-linux-complete-guide](https://github.com/here-is-leo/kali-linux-complete-guide)
+📖 kali-linux-complete-guide
+
 کتابچه راهنمای جامع بیش از ۴۰ صفحه‌ای برای کالی لینوکس — نصب، ابزارهای اصلی تست نفوذ، اسکن شبکه، استخراج رمز عبور و تست نفوذ وب.
 
-**ویژگی‌ها:** Nmap · Wireshark · Metasploit · John the Ripper · فهرست تعاملی · تم روشن/تیره
+ویژگی‌ها: Nmap · Wireshark · Metasploit · John the Ripper · فهرست تعاملی · تم روشن/تیره
 
-`HTML` `CSS` `JavaScript`
+HTML CSS JavaScript
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=kali-linux-complete-guide&theme=synthwave&hide_border=true)
+
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Bale-Bot](https://github.com/here-is-leo/Bale-Bot)
+🤖 Bale-Bot
+
 یک ربات پیام‌رسان نوشته‌شده با پایتون برای پلتفرم بله.
 
-`Python`
+Python
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=Bale-Bot&theme=synthwave&hide_border=true)
+
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 بعدی چیست؟
+🚀 بعدی چیست؟
+
 همیشه برای همکاری روی سیستم‌های بک‌اند، ابزارهای امنیتی یا گردش‌کارهای مبتنی بر LLM آماده‌ام. مخازن پین‌شده بالا را ببینید ↑
 
-<img width="180" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif"/>
+<img width="180" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
 </td>
 </tr>
@@ -617,23 +678,27 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1a1a2e&height=90&section=header&text=%D8%A7%D9%87%D8%AF%D8%A7%D9%81%20%DB%B1%DB%B4%DB%B0%DB%B5&fontSize=26&fontColor=39FF14&fontAlignY=55" width="100%"/>
 </div>
 
-- [ ] 🐳 تعمیق مهارت‌های Docker و کانتینرسازی برای استقرار در سطح تولید
-- [ ] 🛡️ پیشرفت بیشتر در امنیت تهاجمی با کالی لینوکس
-- [ ] 🤖 اصلاح تکنیک‌های پیشرفته مهندسی پرامپت برای استفاده در محیط تولید
-- [ ] 🌍 مشارکت در یک پروژه متن‌باز امنیتی یا ابزار بک‌اند
-- [ ] 📚 انتشار یک گواهینامه یا مسیر یادگیری جدید
+🐳 تعمیق مهارت‌های Docker و کانتینرسازی برای استقرار در سطح تولید
+
+🛡️ پیشرفت بیشتر در امنیت تهاجمی با کالی لینوکس
+
+🤖 اصلاح تکنیک‌های پیشرفته مهندسی پرامپت برای استفاده در محیط تولید
+
+🌍 مشارکت در یک پروژه متن‌باز امنیتی یا ابزار بک‌اند
+
+📚 انتشار یک گواهینامه یا مسیر یادگیری جدید
 
 <br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D8%A2%D9%85%D8%A7%D8%B1%20%D9%87%D9%81%D8%AA%DA%AF%DB%8C&fontSize=26&fontColor=00FF41&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=synthwave&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=synthwave&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=0077FF&point=FF2E2E&area=true&area_color=00FF41)
+
+
+
+
 
 </div>
 
@@ -642,7 +707,7 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D9%85%D8%A7%D8%B1%20%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA%E2%80%8C%D9%87%D8%A7&fontSize=26&fontColor=00FF41&fontAlignY=65" width="100%"/>
 
-![Snake animation](https://github.com/here-is-leo/here-is-leo/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
@@ -651,8 +716,9 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:1a1a2e&height=90&section=header&text=%D9%81%D9%84%D8%B3%D9%81%D9%87&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 
-> ### 💬 «امنیت یک محصول نیست، بلکه یک فرآیند است.»
-> **— بروس شنایر**
+💬 «امنیت یک محصول نیست، بلکه یک فرآیند است.»
+
+— بروس شنایر
 
 من چیزهایی می‌سازم که کار می‌کنند، سپس سعی می‌کنم آن‌ها را بشکنم — چون سیستمی که خودت به آن حمله نکرده‌ای، سیستمی نیست که واقعاً بفهمی. کد بک‌اند باید به بهترین شکل ممکن «خسته‌کننده» باشد: قابل پیش‌بینی، مستندشده و سخت برای سوءاستفاده. بقیه‌اش جایی‌ست که مسائل جالب زندگی می‌کنند.
 
@@ -668,23 +734,23 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/here-is-leo/)
+
+
+
+
 
 </div>
 
 <br>
 
-## ☕ حمایت از من
+☕ حمایت از من
 
 اگر پروژه‌هایم برایتان مفید بوده، می‌توانید از کارم حمایت کنید:
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coffeebede.com/leo)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/here-is-leo)
+
+
 
 </div>
 
@@ -692,9 +758,9 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 <div align="center">
 
-**توسعه‌دهنده بک‌اند · متخصص پایتون و سی‌شارپ · علاقه‌مند به لینوکس و امنیت کالی**
+توسعه‌دهنده بک‌اند · متخصص پایتون و سی‌شارپ · علاقه‌مند به لینوکس و امنیت کالی
 
-⭐️ از طرف [here-is-leo](https://github.com/here-is-leo)
+⭐️ از طرف here-is-leo
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=150&section=footer" width="100%"/>
 
