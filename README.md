@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=180&section=header&text=Ilya%20Farahani&fontSize=48&fontColor=00FF41&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20%7C%20Linux%20%26%20Security%20Enthusiast&descAlignY=62&descSize=16&descColor=39FF14" width="100%"/>
+
 ```
 ██╗  ██╗███████╗██████╗ ███████╗   ██╗     ███████╗ ██████╗
 ██║  ██║██╔════╝██╔══██╗██╔════╝   ██║     ██╔════╝██╔═══██╗
@@ -275,6 +277,8 @@ Always open to collaborating on backend systems, security tooling, or LLM-powere
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=highcontrast&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF14)
+
 </div>
 
 <br>
@@ -338,6 +342,8 @@ If you find my projects useful, consider supporting my work:
 
 ⭐️ From [here-is-leo](https://github.com/here-is-leo)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
+
 </div>
 
 <br><br>
@@ -345,6 +351,8 @@ If you find my projects useful, consider supporting my work:
 <div align="center">
 
 # 🌐 نسخه فارسی
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=180&section=header&text=%D8%A7%DB%8C%D9%84%DB%8C%D8%A7%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C&fontSize=42&fontColor=00FF41&fontAlignY=40&animation=fadeIn&desc=%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87%20%D8%A8%DA%A9%E2%80%8C%D8%A7%D9%86%D8%AF%20%D9%88%20%D8%B9%D9%84%D8%A7%D9%82%D9%87%E2%80%8C%D9%85%D9%86%D8%AF%20%D8%A8%D9%87%20%D8%A7%D9%85%D9%86%DB%8C%D8%AA&descAlignY=62&descSize=15&descColor=39FF14" width="100%"/>
 
 ```
 ██╗  ██╗███████╗██████╗ ███████╗   ██╗     ███████╗ ██████╗
@@ -609,6 +617,8 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=highcontrast&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF14)
+
 </div>
 
 <br>
@@ -671,5 +681,7 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 **توسعه‌دهنده بک‌اند · متخصص پایتون و سی‌شارپ · علاقه‌مند به لینوکس و امنیت کالی**
 
 ⭐️ از طرف [here-is-leo](https://github.com/here-is-leo)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
