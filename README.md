@@ -1,32 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=180&section=header&text=Ilya%20Farahani&fontSize=48&fontColor=00FF41&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20%7C%20Linux%20%26%20Security%20Enthusiast&descAlignY=62&descSize=16&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=200&section=header&text=ILYA%20FARAHANI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Backend%20Developer%20%E2%80%A2%20Linux%20%26%20Security%20Enthusiast&descAlignY=58&descSize=17&descColor=00FF41" width="100%"/>
 
-```
-██╗  ██╗███████╗██████╗ ███████╗   ██╗     ███████╗ ██████╗
-██║  ██║██╔════╝██╔══██╗██╔════╝   ██║     ██╔════╝██╔═══██╗
-███████║█████╗  ██████╔╝█████╗     ██║     █████╗  ██║   ██║
-██╔══██║██╔══╝  ██╔══██╗██╔══╝     ██║     ██╔══╝  ██║   ██║
-██║  ██║███████╗██║  ██║███████╗   ███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚══════╝╚══════╝ ╚═════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=root%40leo%3A~%23+whoami;Backend+Developer+%7C+Python+%26+C%23;Linux+Power+User+%7C+Kali+Enthusiast;Breaking+Things+to+Build+Them+Better;Prompt+Engineer+for+Production+LLMs;echo+%22Let%27s+build+something.%22" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+C%23;Linux+Power+User+%7C+Kali+Enthusiast;Breaking+Things+to+Build+Them+Better;Prompt+Engineer+for+Production+LLMs" alt="Typing SVG" />
+<br>
 
-### 🐍 Backend Developer &nbsp;•&nbsp; 🖥️ Linux Expert &nbsp;•&nbsp; 🔒 Security Enthusiast
+![Profile Views](https://komarev.com/ghpvc/?username=here-is-leo&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/here-is-leo?style=for-the-badge&color=0077FF&labelColor=0D1117)
 
 **Backend Developer with 4–5 years of experience** specializing in Python & C#, passionate about Linux systems, network security, and Kali Linux. Solved every TryHackMe & NetAcad cybersecurity challenge available. Currently exploring the intersection of software engineering and Prompt Engineering.
 
 📍 Tehran, Iran &nbsp;|&nbsp; 💬 [Telegram](https://t.me/Here_is_leo) &nbsp;|&nbsp; ✉️ ilyafarahanii@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=here-is-leo&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
 
 ## ⚡ `> whoami`
 
@@ -49,23 +42,31 @@ location:    Tehran, Iran 🇮🇷
 
 <br>
 
-## 🦸 My Superpowers
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=MY%20SUPERPOWERS&fontSize=28&fontColor=00FF41&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gears.gif"/>
 
 ### 🏗️ Builder
 Full-stack backend systems from schema to deployment. REST APIs, microservices, role-based access, automated reporting & backups — I ship systems that don't fall over.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/eyes.gif"/>
 
 ### 🕵️ Breaker
 Every TryHackMe room, every NetAcad lab, 35/35 OverTheWire Natas levels documented start to finish. I understand systems better by finding where they break.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif"/>
 
 ### 🤖 Whisperer
 Prompt Engineering as a craft, not a buzzword — structuring, testing, and refining prompts for real production LLM workflows.
@@ -76,53 +77,46 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
 
 <br>
 
-## 📡 Tech Radar
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=TECH%20RADAR&fontSize=28&fontColor=0077FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
 **🟢 Core — daily driver**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cs,linux,nodejs&theme=dark" />
 
 **🔵 Backend & Data**
 
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=express,sqlite,mysql,prisma&theme=dark" />
 
 **🟣 Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,wordpress,ts&theme=dark" />
 
 **🔴 Security & Offense**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kali,wireshark&theme=dark" />
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
 **⚫ DevOps & Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" />
 
 **🟡 AI / LLM**
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Workflows-10A37F?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
 <br>
 
-## 🛤️ Dev Journey
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=DEV%20JOURNEY&fontSize=28&fontColor=FF2E2E&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 ```
 ~2021-2022   ●───  Started programming — first steps into backend development
@@ -140,11 +134,10 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
 
 <br>
 
-## 🏅 GitHub Trophies
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=60&section=header&text=GITHUB%20TROPHIES&fontSize=26&fontColor=FFD700&fontAlignY=65" width="100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=algolia&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -167,13 +160,15 @@ Prompt Engineering as a craft, not a buzzword — structuring, testing, and refi
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 <br>
 
-## 🏆 Achievements
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D1117,100:1a1a2e&height=90&section=header&text=ACHIEVEMENTS&fontSize=26&fontColor=00FF41&fontAlignY=55&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -191,7 +186,9 @@ Beyond backend development, I design, test, and refine prompts to unlock the ful
 
 <br>
 
-## 📂 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=0077FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 <table>
 <tr>
@@ -204,6 +201,8 @@ Full-featured Point-of-Sale & inventory management system built as **4 separate 
 
 `Node.js` `Express` `Prisma` `SQLite` `React` `Next.js` `TypeScript`
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=pos-system&theme=synthwave&hide_border=true)
+
 </td>
 <td width="50%" valign="top">
 
@@ -213,6 +212,8 @@ Complete bilingual (Persian/English) walkthrough for **all 35 levels** of OverTh
 **Highlights:** neon UI · terminal simulator · bilingual documentation
 
 `HTML` `CSS` `JavaScript`
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=overthewire-natas&theme=synthwave&hide_border=true)
 
 </td>
 </tr>
@@ -226,6 +227,8 @@ Telegram Mini App for managing network tools — public DNS servers, MTProto pro
 
 `Python` `HTML` `CSS` `JavaScript`
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=V-Tunnel&theme=synthwave&hide_border=true)
+
 </td>
 <td width="50%" valign="top">
 
@@ -235,6 +238,8 @@ Telegram Mini App for managing network tools — public DNS servers, MTProto pro
 **Highlights:** Nmap · Wireshark · Metasploit · John the Ripper · interactive TOC · light/dark theme
 
 `HTML` `CSS` `JavaScript`
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=kali-linux-complete-guide&theme=synthwave&hide_border=true)
 
 </td>
 </tr>
@@ -246,11 +251,15 @@ A messenger bot built in Python for the Bale platform.
 
 `Python`
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=Bale-Bot&theme=synthwave&hide_border=true)
+
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 What's next?
 Always open to collaborating on backend systems, security tooling, or LLM-powered workflows. Check out the pinned repos above ↑
+
+<img width="180" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif"/>
 
 </td>
 </tr>
@@ -258,7 +267,9 @@ Always open to collaborating on backend systems, security tooling, or LLM-powere
 
 <br>
 
-## 🎯 2026 Goals
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1a1a2e&height=90&section=header&text=2026%20GOALS&fontSize=26&fontColor=39FF14&fontAlignY=55" width="100%"/>
+</div>
 
 - [ ] 🐳 Deepen Docker & containerization skills for production-grade deployments
 - [ ] 🛡️ Advance further into offensive security with Kali Linux
@@ -268,24 +279,22 @@ Always open to collaborating on backend systems, security tooling, or LLM-powere
 
 <br>
 
-## 📊 Weekly Stats
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=WEEKLY%20STATS&fontSize=28&fontColor=00FF41&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=chartreuse-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=synthwave&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=highcontrast&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=synthwave&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF14)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=0077FF&point=FF2E2E&area=true&area_color=00FF41)
 
 </div>
 
 <br>
 
-## 🐍 Contribution Snake
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=CONTRIBUTION%20SNAKE&fontSize=26&fontColor=00FF41&fontAlignY=65" width="100%"/>
 
 ![Snake animation](https://github.com/here-is-leo/here-is-leo/blob/output/github-contribution-grid-snake.svg)
 
@@ -293,9 +302,8 @@ Always open to collaborating on backend systems, security tooling, or LLM-powere
 
 <br>
 
-## 🧭 Philosophy
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:1a1a2e&height=90&section=header&text=PHILOSOPHY&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 
 > ### 💬 "Security is not a product, but a process."
 > **— Bruce Schneier**
@@ -306,7 +314,9 @@ I build things that work, then I try to break them — because a system you have
 
 <br>
 
-## 🤝 Let's Collaborate
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,50:00FF41,100:FF2E2E&height=110&section=header&text=LET'S%20COLLABORATE&fontSize=26&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
 
 I'm always up for a conversation about backend architecture, security tooling, or prompt engineering for production systems. If you're working on something in that space — or just want to talk shop — reach out.
 
@@ -334,15 +344,13 @@ If you find my projects useful, consider supporting my work:
 
 <br>
 
----
-
 <div align="center">
 
 **Backend Developer · Python & C# Specialist · Linux & Kali Security Enthusiast**
 
 ⭐️ From [here-is-leo](https://github.com/here-is-leo)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=150&section=footer" width="100%"/>
 
 </div>
 
@@ -350,20 +358,11 @@ If you find my projects useful, consider supporting my work:
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=200&section=header&text=%D8%A7%DB%8C%D9%84%DB%8C%D8%A7%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87%20%D8%A8%DA%A9%E2%80%8C%D8%A7%D9%86%D8%AF%20%E2%80%A2%20%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3%20%D9%88%20%D8%A7%D9%85%D9%86%DB%8C%D8%AA&descAlignY=58&descSize=15&descColor=00FF41" width="100%"/>
+
 # 🌐 نسخه فارسی
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=180&section=header&text=%D8%A7%DB%8C%D9%84%DB%8C%D8%A7%20%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C&fontSize=42&fontColor=00FF41&fontAlignY=40&animation=fadeIn&desc=%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87%20%D8%A8%DA%A9%E2%80%8C%D8%A7%D9%86%D8%AF%20%D9%88%20%D8%B9%D9%84%D8%A7%D9%82%D9%87%E2%80%8C%D9%85%D9%86%D8%AF%20%D8%A8%D9%87%20%D8%A7%D9%85%D9%86%DB%8C%D8%AA&descAlignY=62&descSize=15&descColor=39FF14" width="100%"/>
-
-```
-██╗  ██╗███████╗██████╗ ███████╗   ██╗     ███████╗ ██████╗
-██║  ██║██╔════╝██╔══██╗██╔════╝   ██║     ██╔════╝██╔═══██╗
-███████║█████╗  ██████╔╝█████╗     ██║     █████╗  ██║   ██║
-██╔══██║██╔══╝  ██╔══██╗██╔══╝     ██║     ██╔══╝  ██║   ██║
-██║  ██║███████╗██║  ██║███████╗   ███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚══════╝╚══════╝ ╚═════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D8%A8%DA%A9-%D8%A7%D9%86%D8%AF;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5+%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3;%D8%B9%D9%84%D8%A7%D9%82%D9%87%E2%80%8C%D9%85%D9%86%D8%AF+%D8%A8%D9%87+%D8%A7%D9%85%D9%86%DB%8C%D8%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D8%A8%DA%A9-%D8%A7%D9%86%D8%AF;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5+%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3;%D8%B9%D9%84%D8%A7%D9%82%D9%87%E2%80%8C%D9%85%D9%86%D8%AF+%D8%A8%D9%87+%D8%A7%D9%85%D9%86%DB%8C%D8%AA" alt="Typing SVG" />
 
 ### 🐍 توسعه‌دهنده بک‌اند &nbsp;•&nbsp; 🖥️ متخصص لینوکس &nbsp;•&nbsp; 🔒 علاقه‌مند به امنیت
 
@@ -371,13 +370,13 @@ If you find my projects useful, consider supporting my work:
 
 📍 تهران، ایران &nbsp;|&nbsp; 💬 [تلگرام](https://t.me/Here_is_leo) &nbsp;|&nbsp; ✉️ ilyafarahanii@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyafarahanii@gmail.com)
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
 
 ## ⚡ درباره من
 
@@ -389,23 +388,31 @@ If you find my projects useful, consider supporting my work:
 
 <br>
 
-## 🦸 مهارت‌های ویژه من
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D9%85%D9%87%D8%A7%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C%20%D9%88%DB%8C%DA%98%D9%87&fontSize=26&fontColor=00FF41&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gears.gif"/>
 
 ### 🏗️ سازنده
 سیستم‌های بک‌اند کامل از طراحی دیتابیس تا استقرار. API، میکروسرویس، دسترسی نقش‌محور، گزارش‌گیری و بک‌آپ خودکار — سیستم‌هایی می‌سازم که خراب نمی‌شوند.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/eyes.gif"/>
 
 ### 🕵️ شکننده
 هر اتاق TryHackMe، هر آزمایشگاه NetAcad، تمام ۳۵ مرحله OverTheWire Natas مستندسازی شده. سیستم‌ها را بهتر از طریق پیدا کردن نقطه شکستشان می‌فهمم.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img width="60" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif"/>
 
 ### 🤖 زمزمه‌گر
 مهندسی پرامپت به‌عنوان یک هنر، نه یک کلمه مد روز — ساختاردهی، تست و اصلاح پرامپت‌ها برای گردش‌کارهای واقعی LLM در محیط تولید.
@@ -416,53 +423,46 @@ If you find my projects useful, consider supporting my work:
 
 <br>
 
-## 📡 رادار فناوری
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1%20%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C&fontSize=26&fontColor=0077FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
 **🟢 هسته اصلی**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cs,linux,nodejs&theme=dark" />
 
 **🔵 بک‌اند و داده**
 
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=express,sqlite,mysql,prisma&theme=dark" />
 
 **🟣 فرانت‌اند**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,wordpress,ts&theme=dark" />
 
 **🔴 امنیت و تهاجم**
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kali,wireshark&theme=dark" />
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
 **⚫ DevOps و ابزارها**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" />
 
 **🟡 هوش مصنوعی**
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Workflows-10A37F?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
 <br>
 
-## 🛤️ مسیر توسعه
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D9%85%D8%B3%DB%8C%D8%B1%20%D8%AA%D9%88%D8%B3%D8%B9%D9%87&fontSize=26&fontColor=FF2E2E&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 ```
 ۴-۵ سال پیش   ●───  شروع برنامه‌نویسی — اولین قدم‌ها در دنیای بک‌اند
@@ -480,11 +480,10 @@ If you find my projects useful, consider supporting my work:
 
 <br>
 
-## 🏅 نشان‌های گیت‌هاب
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=60&section=header&text=%D9%86%D8%B4%D8%A7%D9%86%E2%80%8C%D9%87%D8%A7%DB%8C%20%DA%AF%DB%8C%D8%AA%E2%80%8C%D9%87%D8%A7%D8%A8&fontSize=24&fontColor=FFD700&fontAlignY=65" width="100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=algolia&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -507,13 +506,15 @@ If you find my projects useful, consider supporting my work:
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 <br>
 
-## 🏆 دستاوردها
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D1117,100:1a1a2e&height=90&section=header&text=%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D8%B1%D8%AF%D9%87%D8%A7&fontSize=26&fontColor=00FF41&fontAlignY=55&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -531,7 +532,9 @@ If you find my projects useful, consider supporting my work:
 
 <br>
 
-## 📂 پروژه‌های شاخص
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D9%BE%D8%B1%D9%88%DA%98%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%B4%D8%A7%D8%AE%D8%B5&fontSize=26&fontColor=0077FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 <table>
 <tr>
@@ -544,6 +547,8 @@ If you find my projects useful, consider supporting my work:
 
 `Node.js` `Express` `Prisma` `SQLite` `React` `Next.js` `TypeScript`
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=pos-system&theme=synthwave&hide_border=true)
+
 </td>
 <td width="50%" valign="top">
 
@@ -553,6 +558,8 @@ If you find my projects useful, consider supporting my work:
 **ویژگی‌ها:** رابط نئونی · شبیه‌ساز ترمینال · مستندسازی دوزبانه
 
 `HTML` `CSS` `JavaScript`
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=overthewire-natas&theme=synthwave&hide_border=true)
 
 </td>
 </tr>
@@ -566,6 +573,8 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 `Python` `HTML` `CSS` `JavaScript`
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=V-Tunnel&theme=synthwave&hide_border=true)
+
 </td>
 <td width="50%" valign="top">
 
@@ -575,6 +584,8 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 **ویژگی‌ها:** Nmap · Wireshark · Metasploit · John the Ripper · فهرست تعاملی · تم روشن/تیره
 
 `HTML` `CSS` `JavaScript`
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=kali-linux-complete-guide&theme=synthwave&hide_border=true)
 
 </td>
 </tr>
@@ -586,11 +597,15 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 `Python`
 
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=Bale-Bot&theme=synthwave&hide_border=true)
+
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 بعدی چیست؟
 همیشه برای همکاری روی سیستم‌های بک‌اند، ابزارهای امنیتی یا گردش‌کارهای مبتنی بر LLM آماده‌ام. مخازن پین‌شده بالا را ببینید ↑
+
+<img width="180" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif"/>
 
 </td>
 </tr>
@@ -598,7 +613,9 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 <br>
 
-## 🎯 اهداف ۱۴۰۵ (۲۰۲۶)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:1a1a2e&height=90&section=header&text=%D8%A7%D9%87%D8%AF%D8%A7%D9%81%20%DB%B1%DB%B4%DB%B0%DB%B5&fontSize=26&fontColor=39FF14&fontAlignY=55" width="100%"/>
+</div>
 
 - [ ] 🐳 تعمیق مهارت‌های Docker و کانتینرسازی برای استقرار در سطح تولید
 - [ ] 🛡️ پیشرفت بیشتر در امنیت تهاجمی با کالی لینوکس
@@ -608,24 +625,22 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 <br>
 
-## 📊 آمار هفتگی
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D8%A2%D9%85%D8%A7%D8%B1%20%D9%87%D9%81%D8%AA%DA%AF%DB%8C&fontSize=26&fontColor=00FF41&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=chartreuse-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=synthwave&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=highcontrast&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=synthwave&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF14)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=0077FF&point=FF2E2E&area=true&area_color=00FF41)
 
 </div>
 
 <br>
 
-## 🐍 مار مشارکت‌ها
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=%D9%85%D8%A7%D8%B1%20%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA%E2%80%8C%D9%87%D8%A7&fontSize=26&fontColor=00FF41&fontAlignY=65" width="100%"/>
 
 ![Snake animation](https://github.com/here-is-leo/here-is-leo/blob/output/github-contribution-grid-snake.svg)
 
@@ -633,9 +648,8 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 <br>
 
-## 🧭 فلسفه
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:1a1a2e&height=90&section=header&text=%D9%81%D9%84%D8%B3%D9%81%D9%87&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 
 > ### 💬 «امنیت یک محصول نیست، بلکه یک فرآیند است.»
 > **— بروس شنایر**
@@ -646,7 +660,9 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 <br>
 
-## 🤝 بیایید همکاری کنیم
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,50:00FF41,100:FF2E2E&height=110&section=header&text=%D8%A8%DB%8C%D8%A7%DB%8C%DB%8C%D9%85%20%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C%20%DA%A9%D9%86%DB%8C%D9%85&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
 
 همیشه برای گفتگو درباره معماری بک‌اند، ابزارهای امنیتی یا مهندسی پرامپت برای سیستم‌های تولید آماده‌ام. اگر روی چیزی در این حوزه کار می‌کنید — یا فقط می‌خواهید گپ بزنید — با من در تماس باشید.
 
@@ -674,14 +690,12 @@ Mini App تلگرام برای مدیریت ابزارهای شبکه — سرو
 
 <br>
 
----
-
 <div align="center">
 
 **توسعه‌دهنده بک‌اند · متخصص پایتون و سی‌شارپ · علاقه‌مند به لینوکس و امنیت کالی**
 
 ⭐️ از طرف [here-is-leo](https://github.com/here-is-leo)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF41,50:0077FF,75:FF2E2E,100:0D1117&height=150&section=footer" width="100%"/>
 
 </div>
