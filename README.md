@@ -1,611 +1,523 @@
-<!-- ============================================== -->
-<!--         🚀 ULTIMATE HERO SECTION               -->
-<!-- ============================================== -->
+<!--
+  README.md — Ilia Farahani (here-is-leo)
+  Bilingual: English first, Persian (فارسی) second.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0077FF&height=280&section=header&text=ILIA%20FARAHANI&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&stroke=00FF41&strokeWidth=3&desc=Backend%20Developer%20%E2%80%A2%20Linux%20Architect%20%E2%80%A2%20Security%20Engineer&descAlignY=62&descSize=20&descColor=00FF41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,50:0077FF,100:00FF41&height=220&section=header&text=ILIA%20FARAHANI&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Backend%20Developer%20%7C%20Security%20Enthusiast%20%7C%20Prompt%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=80&lines=root%40leo%3A~%23+whoami;🔥+Backend+%7C+Security+%7C+Linux+Master;🔐+Breaking+systems+%3D+building+them+better" alt="Typing SVG" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,50:0077FF,100:00FF41&height=4&section=header" width="70%"/>
-
-<br><br>
-
-<!-- ============================================== -->
-<!--         🏆 ULTIMATE BADGE ARRAY               -->
-<!-- ============================================== -->
-
-[![Profile Views](https://komarev.com/ghpvc/?username=here-is-leo&color=00FF41&style=for-the-badge&label=👁️+PROFILE+VIEWS&labelColor=0D1117)](https://github.com/here-is-leo)
-[![Followers](https://img.shields.io/github/followers/here-is-leo?style=for-the-badge&color=0077FF&label=⭐+FOLLOWERS&labelColor=0D1117)](https://github.com/here-is-leo?tab=followers)
-[![Stars](https://img.shields.io/github/stars/here-is-leo?style=for-the-badge&color=00FF41&label=🌟+STARS&labelColor=0D1117)](https://github.com/here-is-leo?tab=repositories)
-[![Last Commit](https://img.shields.io/github/last-commit/here-is-leo/here-is-leo?style=for-the-badge&color=0077FF&label=⚡+ACTIVE&labelColor=0D1117)](https://github.com/here-is-leo)
-[![Website](https://img.shields.io/badge/🌐+here--is--leo--blog-00FF41?style=for-the-badge&labelColor=0D1117)](https://here-is-leo-blog.ilyafarahanii.workers.dev)
-
-<br><br>
-
-<!-- ============================================== -->
-<!--         ✨ GLASS BIO SECTION                   -->
-<!-- ============================================== -->
-
-<div style="background: linear-gradient(135deg, rgba(0, 255, 65, 0.06), rgba(0, 119, 255, 0.06)); backdrop-filter: blur(24px); border: 1.5px solid rgba(0, 255, 65, 0.25); border-radius: 28px; padding: 28px 40px; margin: 20px auto; max-width: 86%; box-shadow: 0 0 80px rgba(0, 255, 65, 0.06), inset 0 0 80px rgba(0, 255, 65, 0.02);">
-
-<p style="color: #D0D0D0; font-size: 18px; line-height: 1.9; letter-spacing: 0.3px;">
-  <span style="color: #00FF41; font-weight: bold; font-size: 20px;">⚡ Backend Developer</span> with <span style="color: #FFD700; font-weight: bold;">4–5 years</span> of battle-tested experience. Specializing in <span style="color: #00FF41; font-weight: bold;">Python</span> &amp; <span style="color: #0077FF; font-weight: bold;">C#</span>, breathing <span style="color: #0077FF; font-weight: bold;">Linux</span> daily, and breaking <span style="color: #00FF41; font-weight: bold;">Kali</span> systems for a living. Every <span style="color: #FFD700; font-weight: bold;">TryHackMe</span> room conquered, every <span style="color: #0077FF; font-weight: bold;">NetAcad</span> lab mastered. Currently bridging the gap between <span style="color: #00FF41; font-weight: bold;">software engineering</span> and the <span style="color: #0077FF; font-weight: bold;">AI revolution</span> through Prompt Engineering.
-</p>
-
-<p style="color: #8899AA; font-size: 16px; margin-top: 8px;">
-  📍 <span style="color: #00FF41;">Tehran, Iran</span> &nbsp;·&nbsp; 💬 <a href="https://t.me/Here_is_leo" style="color: #00FF41; text-decoration: none; font-weight: bold; border-bottom: 1px solid rgba(0,255,65,0.2);">Telegram</a> &nbsp;·&nbsp; ✉️ <a href="mailto:ilyafarahanii@gmail.com" style="color: #0077FF; text-decoration: none; font-weight: bold; border-bottom: 1px solid rgba(0,119,255,0.2);">ilyafarahanii@gmail.com</a> &nbsp;·&nbsp; 🌐 <a href="https://here-is-leo-blog.ilyafarahanii.workers.dev" style="color: #00FF41; text-decoration: none; font-weight: bold; border-bottom: 1px solid rgba(0,255,65,0.2);">Website</a>
-</p>
+<a href="#-english">🇬🇧 English</a> •
+<a href="#-فارسی">🇮🇷 فارسی</a>
 
 </div>
 
-<br>
+---
 
-<!-- ============================================== -->
-<!--         🔗 SOCIAL LINKS - NEON                -->
-<!-- ============================================== -->
-
-<a href="https://www.linkedin.com/in/ilya-farahani-2160103b0">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://t.me/Here_is_leo">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="mailto:ilyafarahanii@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/here-is-leo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://here-is-leo-blog.ilyafarahanii.workers.dev">
-  <img src="https://img.shields.io/badge/🌐+Website-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--         ⚡ WHOAMI - TERMINAL SECTION          -->
-<!-- ============================================== -->
+<h1 id="-english">🇬🇧 English</h1>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:0D1117&height=2&section=header" width="88%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1000&pause=700&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=⚡+%3E+whoami" alt="whoami"/>
-
-<br>
-
-<div style="background: #0A0E17; border: 2px solid #00FF41; border-radius: 18px; padding: 28px 38px; max-width: 760px; margin: 0 auto; font-family: 'Courier New', monospace; text-align: left; box-shadow: 0 0 60px rgba(0, 255, 65, 0.08), inset 0 0 60px rgba(0, 255, 65, 0.02);">
-
-<p style="color: #00FF41; font-size: 15px; margin: 3px 0;">
-  <span style="color: #FFD700;">┌──</span> <span style="color: #00FF41;">root@leo</span><span style="color: #FFFFFF;">:</span><span style="color: #0077FF;">~/about</span>
-</p>
-<p style="color: #00FF41; font-size: 15px; margin: 3px 0;">
-  <span style="color: #FFD700;">│</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">├─</span> <span style="color: #00FF41;">name</span>        <span style="color: #FFFFFF;">::</span> <span style="color: #FFFFFF; font-weight: bold;">Ilia Farahani</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">├─</span> <span style="color: #00FF41;">title</span>       <span style="color: #FFFFFF;">::</span> <span style="color: #0077FF; font-weight: bold;">Senior Backend Developer</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">├─</span> <span style="color: #00FF41;">experience</span>  <span style="color: #FFFFFF;">::</span> <span style="color: #FFD700;">4–5 years</span> <span style="color: #555;">[production systems]</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">├─</span> <span style="color: #00FF41;">stack</span>       <span style="color: #FFFFFF;">::</span> <span style="color: #00FF41;">Python</span><span style="color: #FFFFFF;">,</span> <span style="color: #0077FF;">C#</span><span style="color: #FFFFFF;">,</span> <span style="color: #FFD700;">Node.js</span><span style="color: #FFFFFF;">,</span> <span style="color: #0077FF;">TypeScript</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">├─</span> <span style="color: #00FF41;">focus</span>       <span style="color: #FFFFFF;">::</span> <span style="color: #0077FF;">APIs</span> <span style="color: #FFFFFF;">·</span> <span style="color: #00FF41;">Microservices</span> <span style="color: #FFFFFF;">·</span> <span style="color: #00FF41;">Databases</span> <span style="color: #FFFFFF;">·</span> <span style="color: #0077FF;">Security</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">├─</span> <span style="color: #00FF41;">os</span>           <span style="color: #FFFFFF;">::</span> <span style="color: #00FF41;">Linux</span> <span style="color: #FFFFFF;">(daily)</span> <span style="color: #FFFFFF;">+</span> <span style="color: #0077FF;">Kali</span> <span style="color: #FFFFFF;">(offensive)</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">├─</span> <span style="color: #00FF41;">security</span>    <span style="color: #FFFFFF;">::</span> <span style="color: #FFD700;">TryHackMe</span> <span style="color: #FFFFFF;">·</span> <span style="color: #0077FF;">NetAcad</span> <span style="color: #FFFFFF;">·</span> <span style="color: #00FF41;">Natas 35/35</span>
-</p>
-<p style="color: #AAAAAA; font-size: 14px; margin: 2px 0;">
-  <span style="color: #FFD700;">└─</span> <span style="color: #00FF41;">mindset</span>     <span style="color: #FFFFFF;">::</span> <span style="color: #0077FF;">Build</span> <span style="color: #FFFFFF;">→</span> <span style="color: #00FF41;">Test</span> <span style="color: #FFFFFF;">→</span> <span style="color: #0077FF;">Break</span> <span style="color: #FFFFFF;">→</span> <span style="color: #00FF41;">Improve</span> <span style="color: #FFFFFF;">→</span> <span style="color: #FFD700;">Repeat</span>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami;Ilia+Farahani+%E2%80%94+Backend+Developer;Linux+%7C+Security+%7C+Prompt+Engineering;Building+systems.+Breaking+them+first." alt="Typing SVG" />
 
 </div>
 
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--         📖 ABOUT ME - GLASS CARD              -->
-<!-- ============================================== -->
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=📖%20ABOUT%20ME&fontSize=28&fontColor=00FF41&fontAlignY=60&animation=fadeIn" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=here-is-leo&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/here-is-leo?color=0077FF&style=flat-square&label=FOLLOWERS)
+![Stars](https://img.shields.io/badge/dynamic/json?color=FFD700&style=flat-square&label=STARS&query=%24.data&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fhere-is-leo)
+![Last Commit](https://img.shields.io/github/last-commit/here-is-leo/here-is-leo.github.io?color=00FF41&style=flat-square&label=LAST+COMMIT)
+[![Website](https://img.shields.io/badge/WEBSITE-here--is--leo-0077FF?style=flat-square&logo=cloudflare&logoColor=white)](https://here-is-leo-blog.ilyafarahanii.workers.dev)
 
 </div>
 
-<div style="max-width: 860px; margin: 0 auto; background: linear-gradient(145deg, rgba(13, 17, 23, 0.85), rgba(22, 27, 34, 0.7)); border-left: 5px solid #00FF41; border-radius: 18px; padding: 28px 35px; box-shadow: 0 0 70px rgba(0, 255, 65, 0.04);">
+<br/>
 
-<p style="color: #C8C8C8; font-size: 16px; line-height: 2.2;">
-  <span style="color: #00FF41; font-weight: bold;">🔭</span> I'm a <span style="color: #00FF41; font-weight: bold;">Backend Developer</span> building <span style="color: #FFD700;">reliable, scalable systems</span> — from REST APIs to microservices and databases, end to end. I don't just write code; I architect solutions that stand the test of traffic.
-</p>
-<p style="color: #C8C8C8; font-size: 16px; line-height: 2.2;">
-  <span style="color: #0077FF; font-weight: bold;">🐧</span> I'm a <span style="color: #0077FF; font-weight: bold;">Linux power user</span> who lives in the terminal. I bring that same rigor to <span style="color: #0077FF;">network security</span> and <span style="color: #0077FF;">Kali Linux</span> — because understanding the system means understanding how to break it.
-</p>
-<p style="color: #C8C8C8; font-size: 16px; line-height: 2.2;">
-  <span style="color: #FFD700; font-weight: bold;">🛡️</span> I've completed <span style="color: #FFD700; font-weight: bold;">every single challenge</span> on TryHackMe and NetAcad — not as a hobby, but as a <span style="color: #FFD700;">discipline</span>. Security isn't an add-on; it's the foundation.
-</p>
-<p style="color: #C8C8C8; font-size: 16px; line-height: 2.2;">
-  <span style="color: #00FF41; font-weight: bold;">🤖</span> My superpower: <span style="color: #00FF41; font-weight: bold;">Prompt Engineering</span> — designing, testing, and optimizing prompts that unlock the full potential of LLMs. I bridge the gap between <span style="color: #00FF41;">traditional software</span> and <span style="color: #00FF41;">AI-driven workflows</span>.
-</p>
-<p style="color: #C8C8C8; font-size: 16px; line-height: 2.2;">
-  <span style="color: #0077FF; font-weight: bold;">⚡</span> Fun fact: <span style="color: #0077FF; font-style: italic;">I can walk through a NetAcad lab in my sleep — and I've probably done it.</span>
-</p>
-
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--         ⚡ SUPERPOWERS                        -->
-<!-- ============================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=⚡%20MY%20SUPERPOWERS&fontSize=28&fontColor=00FF41&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-<br><br>
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="33%" valign="top" align="center" style="background: linear-gradient(145deg, rgba(0, 255, 65, 0.06), rgba(13, 17, 23, 0.9)); border: 1.5px solid rgba(0, 255, 65, 0.25); border-radius: 22px; padding: 28px 18px; box-shadow: 0 0 40px rgba(0, 255, 65, 0.03);">
+<td width="100%">
 
-<div style="font-size: 48px; margin-bottom: 8px;">🏗️</div>
+<div align="center">
 
-<h3 style="color: #00FF41; font-size: 22px; margin: 6px 0;">Builder</h3>
+### 💚 About Me
 
-<p style="color: #AAAAAA; font-size: 14.5px; line-height: 1.9; padding: 0 6px;">
-Full-stack backend systems from <span style="color: #00FF41;">schema</span> to <span style="color: #00FF41;">deployment</span>. REST APIs, microservices, role-based access, automated reporting, and backup systems that <span style="color: #FFD700;">never fail</span>.
-</p>
+**Backend Developer** with **4–5 years** of hands-on experience building real-world systems in **Python**, **C# (MVC)**, **Node.js**, and **TypeScript**. Living and breathing **Linux** (Kali included), I approach every system with a builder's precision and a breaker's curiosity.
 
-<div style="margin-top: 10px;">
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Python</code>
-  <code style="color: #0077FF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">C#</code>
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Node.js</code>
-</div>
+I hold a completed track of **35 Natas levels** (OverTheWire), active **TryHackMe** rooms, and **NetAcad** certifications — because a backend developer who doesn't understand how systems get broken can't truly build ones that stay standing.
 
-</td>
-<td width="33%" valign="top" align="center" style="background: linear-gradient(145deg, rgba(0, 119, 255, 0.06), rgba(13, 17, 23, 0.9)); border: 1.5px solid rgba(0, 119, 255, 0.25); border-radius: 22px; padding: 28px 18px; box-shadow: 0 0 40px rgba(0, 119, 255, 0.03);">
+Lately I've been deep in **Prompt Engineering** — designing structured, reliable instructions for LLMs, treating prompts as a real engineering discipline rather than trial and error.
 
-<div style="font-size: 48px; margin-bottom: 8px;">🕵️</div>
-
-<h3 style="color: #0077FF; font-size: 22px; margin: 6px 0;">Breaker</h3>
-
-<p style="color: #AAAAAA; font-size: 14.5px; line-height: 1.9; padding: 0 6px;">
-Every TryHackMe room, every NetAcad lab, <span style="color: #FFD700;">35/35</span> OverTheWire Natas levels — <span style="color: #0077FF;">documented, exploited, and mastered</span>. I understand systems by breaking them.
-</p>
-
-<div style="margin-top: 10px;">
-  <code style="color: #0077FF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Kali</code>
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Nmap</code>
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Metasploit</code>
-</div>
-
-</td>
-<td width="33%" valign="top" align="center" style="background: linear-gradient(145deg, rgba(0, 255, 65, 0.06), rgba(13, 17, 23, 0.9)); border: 1.5px solid rgba(0, 255, 65, 0.25); border-radius: 22px; padding: 28px 18px; box-shadow: 0 0 40px rgba(0, 255, 65, 0.03);">
-
-<div style="font-size: 48px; margin-bottom: 8px;">🤖</div>
-
-<h3 style="color: #00FF41; font-size: 22px; margin: 6px 0;">Whisperer</h3>
-
-<p style="color: #AAAAAA; font-size: 14.5px; line-height: 1.9; padding: 0 6px;">
-Prompt Engineering as a <span style="color: #00FF41;">craft</span> — not a buzzword. Designing, testing, and refining prompts for <span style="color: #0077FF;">production LLM workflows</span> that actually deliver.
-</p>
-
-<div style="margin-top: 10px;">
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">GPT-4</code>
-  <code style="color: #0077FF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Claude</code>
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">LLM</code>
 </div>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--         🛠️ TECH RADAR                        -->
-<!-- ============================================== -->
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=🛠️%20TECH%20RADAR&fontSize=28&fontColor=0077FF&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-<br><br>
-
-<div style="background: rgba(13, 17, 23, 0.75); border: 1px solid rgba(0, 119, 255, 0.18); border-radius: 22px; padding: 32px 28px; max-width: 840px; margin: 0 auto; box-shadow: 0 0 60px rgba(0, 119, 255, 0.04);">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; margin-bottom: 18px;">
-  <span style="color: #00FF41; font-weight: bold; font-size: 15px;">🟢 Core</span>
-  <span style="color: #0077FF; font-weight: bold; font-size: 15px;">🔵 Backend</span>
-  <span style="color: #00FF41; font-weight: bold; font-size: 15px;">🟣 Frontend</span>
-  <span style="color: #0077FF; font-weight: bold; font-size: 15px;">🔴 Security</span>
-  <span style="color: #FFD700; font-weight: bold; font-size: 15px;">⚫ DevOps</span>
-  <span style="color: #00FF41; font-weight: bold; font-size: 15px;">🟡 AI</span>
-</div>
-
-<img src="https://skillicons.dev/icons?i=python,cs,linux,nodejs,express,dotnet,sqlite,mysql,postgres,prisma,react,nextjs,wordpress,tailwind,kali,wireshark,docker,git,github,nginx,bash&theme=dark" width="100%"/>
-
-<br><br>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-FFD700?style=for-the-badge&logo=john-the-ripper&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00FF41?style=for-the-badge&logo=openai&logoColor=black&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/LLM%20Workflows-0077FF?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
+[![Telegram](https://img.shields.io/badge/Telegram-00FF41?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Here_is_leo)
+[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilyafarahanii@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/here-is-leo)
+[![Website](https://img.shields.io/badge/Website-0077FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://here-is-leo-blog.ilyafarahanii.workers.dev)
 
 </div>
 
-</div>
+<br/>
 
-<br>
+### 🖥️ `whoami`
 
-<!-- ============================================== -->
-<!--         🗺️ DEV JOURNEY - TIMELINE             -->
-<!-- ============================================== -->
+```bash
+ilia@here-is-leo:~$ whoami --full
 
-<div align="center">
+NAME        : Ilia Farahani (aka ilia_azizabadi, here-is-leo)
+ROLE        : Backend Developer
+EXPERIENCE  : 4-5 years
+STACK       : Python | C# (.NET MVC) | Node.js | TypeScript
+FOCUS       : Scalable backend systems, secure-by-design APIs
+OS          : Linux (daily driver) | Kali Linux (offensive security)
+SECURITY    : OverTheWire Natas [35/35] | TryHackMe | NetAcad
+MINDSET     : Build it clean. Break it yourself. Then build it right.
+LOCATION    : Tehran, Iran
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=🗺️%20DEV%20JOURNEY&fontSize=28&fontColor=0077FF&fontAlignY=60&animation=fadeIn" width="100%"/>
+ilia@here-is-leo:~$ _
+```
 
-</div>
+<br/>
 
-<div style="background: rgba(13, 17, 23, 0.6); border-left: 4px solid #00FF41; border-radius: 14px; padding: 22px 35px; max-width: 740px; margin: 0 auto; font-family: 'Courier New', monospace; box-shadow: 0 0 40px rgba(0, 255, 65, 0.03);">
+### 📖 About Me — In Depth
 
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0;">
-  <span style="color: #FFD700;">~2021-2022</span>   <span style="color: #00FF41;">●───</span>  <span style="color: #D0D0D0;">Started programming — first steps into backend</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0; padding-left: 20px;">
-  <span style="color: #445566;">│</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0;">
-  <span style="color: #FFD700;">+2.5yr</span>    <span style="color: #00FF41;">●───</span>  <span style="color: #D0D0D0;">Python deep-dive — building real backend systems</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0; padding-left: 20px;">
-  <span style="color: #445566;">│</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0;">
-  <span style="color: #FFD700;">~2024</span>        <span style="color: #0077FF;">●───</span>  <span style="color: #D0D0D0;">Security turn — Kali Linux, NetAcad, TryHackMe</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0; padding-left: 20px;">
-  <span style="color: #445566;">│</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0;">
-  <span style="color: #FFD700;">             </span> <span style="color: #0077FF;">●───</span>  <span style="color: #D0D0D0;">Documentation era — Natas guide, Kali handbook</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0; padding-left: 20px;">
-  <span style="color: #445566;">│</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0;">
-  <span style="color: #FFD700;">             </span> <span style="color: #00FF41;">●───</span>  <span style="color: #D0D0D0;">AI convergence — Prompt Engineering for LLMs</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0; padding-left: 20px;">
-  <span style="color: #445566;">│</span>
-</p>
-<p style="color: #00FF41; font-size: 14px; margin: 5px 0;">
-  <span style="color: #FFD700;">NOW</span>         <span style="color: #FFD700; font-weight: bold;">●───</span>  <span style="color: #FFFFFF; font-weight: bold;">Building pos-system · exploring agentic workflows</span>
-</p>
+🔹 **The Developer** — I design and ship backend systems end-to-end: APIs, data layers, authentication flows, and the invisible plumbing that keeps products running. My comfort zone spans Node.js/TypeScript for modern web backends, C# MVC for structured enterprise-style apps, and Python for automation, tooling, and scripting whatever needs scripting.
 
-</div>
+🔹 **The Linux Native** — Linux isn't a "skill" on my resume, it's my operating environment. From server administration to shell scripting to understanding exactly what's happening under the hood, I work close to the system rather than around it.
 
-<br>
+🔹 **The Security-Minded Engineer** — Completing all 35 levels of OverTheWire's Natas wasn't a checkbox; it was training my brain to think like an attacker before I write a single line of defensive code. Combined with TryHackMe rooms and NetAcad coursework, I bring a security-first lens to every backend I build — because "it works" and "it's safe" are two very different bars.
 
-<!-- ============================================== -->
-<!--         🏆 GITHUB TROPHIES                    -->
-<!-- ============================================== -->
+🔹 **The Prompt Engineer** — As LLMs became real infrastructure, I treated prompt design as what it actually is: an engineering discipline with structure, constraints, and testable outcomes — not guesswork. I design prompts and instruction sets that are reliable, reproducible, and production-grade.
 
-<div align="center">
+🔹 **Fun Fact** — I'll happily spend an hour automating a 2-minute task, because that hour never has to happen again. Efficiency isn't a preference, it's a personality trait at this point.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:00FF41,100:0077FF&height=60&section=header&text=🏆%20GITHUB%20TROPHIES&fontSize=24&fontColor=FFFFFF&fontAlignY=62" width="100%"/>
+<br/>
 
-<br><br>
+### ⚡ Superpowers
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=onedark&no-frame=true&row=2&column=4&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--         📂 FEATURED PROJECTS                  -->
-<!-- ============================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=📂%20FEATURED%20PROJECTS&fontSize=28&fontColor=0077FF&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-<br><br>
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top" style="background: rgba(13, 17, 23, 0.75); border: 1px solid rgba(0, 255, 65, 0.15); border-radius: 18px; padding: 22px;">
+<td width="33%" align="center">
 
-<h3 style="color: #00FF41;">🛒 pos-system</h3>
+**🛠️ The Builder**
 
-<p style="color: #AAAAAA; font-size: 14px; line-height: 1.9;">
-Full-featured Point-of-Sale &amp; inventory management system built as <strong style="color: #FFD700;">4 separate apps</strong> — REST API backend, admin dashboard, cashier interface, and warehouse manager.
-</p>
-
-<p style="color: #8899AA; font-size: 13px;">
-<strong style="color: #00FF41;">Highlights:</strong> role-based access · invoicing with discounts &amp; printing · stock tracking with change logs · customer settlements · Excel/PDF reporting · automated DB backups
-</p>
-
-<div style="margin: 10px 0; display: flex; flex-wrap: wrap; gap: 4px;">
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Node.js</code>
-  <code style="color: #0077FF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Express</code>
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Prisma</code>
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">SQLite</code>
-  <code style="color: #61DAFB; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">React</code>
-  <code style="color: #FFFFFF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Next.js</code>
-  <code style="color: #3178C6; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">TypeScript</code>
-</div>
-
-<a href="https://github.com/here-is-leo/pos-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=pos-system&theme=synthwave&hide_border=true&bg_color=0A0E17&title_color=00FF41&text_color=AAAAAA&icon_color=0077FF" width="100%"/>
-</a>
+Designs and ships backend systems with Python, C#, and Node.js/TypeScript — clean architecture, real-world scale.
 
 </td>
-<td width="50%" valign="top" style="background: rgba(13, 17, 23, 0.75); border: 1px solid rgba(0, 119, 255, 0.15); border-radius: 18px; padding: 22px;">
+<td width="33%" align="center">
 
-<h3 style="color: #0077FF;">🕸️ overthewire-natas</h3>
+**🔓 The Breaker**
 
-<p style="color: #AAAAAA; font-size: 14px; line-height: 1.9;">
-Complete bilingual (Persian/English) walkthrough for <strong style="color: #FFD700;">all 35 levels</strong> of OverTheWire Natas — web &amp; server-side security concepts, vulnerabilities, exploitation code, and defense strategies.
-</p>
-
-<p style="color: #8899AA; font-size: 13px;">
-<strong style="color: #0077FF;">Highlights:</strong> neon UI · terminal simulator · bilingual documentation
-</p>
-
-<div style="margin: 10px 0; display: flex; flex-wrap: wrap; gap: 4px;">
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">HTML</code>
-  <code style="color: #0077FF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">CSS</code>
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">JavaScript</code>
-</div>
-
-<a href="https://github.com/here-is-leo/overthewire-natas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=overthewire-natas&theme=synthwave&hide_border=true&bg_color=0A0E17&title_color=0077FF&text_color=AAAAAA&icon_color=00FF41" width="100%"/>
-</a>
+35/35 Natas levels, TryHackMe rooms, NetAcad certified. Thinks offense first so the defense actually holds.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="background: rgba(13, 17, 23, 0.75); border: 1px solid rgba(0, 119, 255, 0.15); border-radius: 18px; padding: 22px;">
+<td width="33%" align="center">
 
-<h3 style="color: #0077FF;">🌐 V-Tunnel</h3>
+**💬 The Whisperer**
 
-<p style="color: #AAAAAA; font-size: 14px; line-height: 1.9;">
-Telegram Mini App for managing network tools — public DNS servers, MTProto proxies, and V2Ray configs.
-</p>
-
-<p style="color: #8899AA; font-size: 13px;">
-<strong style="color: #0077FF;">Highlights:</strong> dark glassmorphism UI · fully bilingual · Telegram-native
-</p>
-
-<div style="margin: 10px 0; display: flex; flex-wrap: wrap; gap: 4px;">
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Python</code>
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">HTML</code>
-  <code style="color: #0077FF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">CSS</code>
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">JavaScript</code>
-</div>
-
-<a href="https://github.com/here-is-leo/V-Tunnel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=V-Tunnel&theme=synthwave&hide_border=true&bg_color=0A0E17&title_color=0077FF&text_color=AAAAAA&icon_color=00FF41" width="100%"/>
-</a>
-
-</td>
-<td width="50%" valign="top" style="background: rgba(13, 17, 23, 0.75); border: 1px solid rgba(255, 215, 0, 0.15); border-radius: 18px; padding: 22px;">
-
-<h3 style="color: #FFD700;">📖 kali-linux-complete-guide</h3>
-
-<p style="color: #AAAAAA; font-size: 14px; line-height: 1.9;">
-<strong style="color: #FFD700;">40+ page</strong> bilingual handbook for Kali Linux — installation, core pentesting tools, network scanning, password cracking, and web penetration testing.
-</p>
-
-<p style="color: #8899AA; font-size: 13px;">
-<strong style="color: #FFD700;">Highlights:</strong> Nmap · Wireshark · Metasploit · John the Ripper · interactive TOC · light/dark theme
-</p>
-
-<div style="margin: 10px 0; display: flex; flex-wrap: wrap; gap: 4px;">
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">HTML</code>
-  <code style="color: #0077FF; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">CSS</code>
-  <code style="color: #FFD700; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">JavaScript</code>
-</div>
-
-<a href="https://github.com/here-is-leo/kali-linux-complete-guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=kali-linux-complete-guide&theme=synthwave&hide_border=true&bg_color=0A0E17&title_color=FFD700&text_color=AAAAAA&icon_color=0077FF" width="100%"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="background: rgba(13, 17, 23, 0.75); border: 1px solid rgba(0, 255, 65, 0.15); border-radius: 18px; padding: 22px;">
-
-<h3 style="color: #00FF41;">🤖 Bale-Bot</h3>
-
-<p style="color: #AAAAAA; font-size: 14px; line-height: 1.9;">
-A messenger bot built in Python for the Bale platform.
-</p>
-
-<div style="margin: 10px 0; display: flex; flex-wrap: wrap; gap: 4px;">
-  <code style="color: #00FF41; background: #0A0E17; padding: 2px 10px; border-radius: 20px; font-size: 11px;">Python</code>
-</div>
-
-<a href="https://github.com/here-is-leo/Bale-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=here-is-leo&repo=Bale-Bot&theme=synthwave&hide_border=true&bg_color=0A0E17&title_color=00FF41&text_color=AAAAAA&icon_color=0077FF" width="100%"/>
-</a>
-
-</td>
-<td width="50%" valign="top" style="background: linear-gradient(145deg, rgba(0, 119, 255, 0.04), rgba(13, 17, 23, 0.9)); border: 2px dashed rgba(0, 119, 255, 0.2); border-radius: 18px; padding: 22px; text-align: center;">
-
-<h3 style="color: #0077FF;">🚀 What's next?</h3>
-
-<p style="color: #AAAAAA; font-size: 14px; line-height: 1.9;">
-Always open to collaborating on backend systems, security tooling, or LLM-powered workflows. Check out the pinned repos above ↑
-</p>
-
-<div style="font-size: 60px; margin: 10px 0;">🚀</div>
+Engineers prompts and instructions for LLMs with the same rigor as production code — structured, tested, reliable.
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<br>
-
-<!-- ============================================== -->
-<!--         🎯 2026 GOALS                         -->
-<!-- ============================================== -->
+### 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00FF41,100:0077FF&height=80&section=header&text=🎯%202026%20GOALS&fontSize=26&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+**Languages & Frameworks**
 
-<br>
+![Skills](https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,ts,js,react,nextjs,html,css,express,prisma,linux,bash,git,github,vscode&theme=dark)
 
-<div style="background: rgba(13, 17, 23, 0.75); border: 1px solid rgba(0, 255, 65, 0.15); border-radius: 18px; padding: 24px 35px; max-width: 720px; margin: 0 auto; text-align: left;">
+**Security Toolkit**
 
-<p style="color: #C8C8C8; font-size: 15px; line-height: 2.2;">
-  <span style="color: #00FF41;">☐</span> 🐳 Deepen Docker &amp; containerization for production deployments
-</p>
-<p style="color: #C8C8C8; font-size: 15px; line-height: 2.2;">
-  <span style="color: #0077FF;">☐</span> 🛡️ Advance further into offensive security with Kali Linux
-</p>
-<p style="color: #C8C8C8; font-size: 15px; line-height: 2.2;">
-  <span style="color: #00FF41;">☐</span> 🤖 Refine advanced Prompt Engineering for production LLM
-</p>
-<p style="color: #C8C8C8; font-size: 15px; line-height: 2.2;">
-  <span style="color: #FFD700;">☐</span> 🌍 Contribute to open-source security/backend projects
-</p>
-<p style="color: #C8C8C8; font-size: 15px; line-height: 2.2;">
-  <span style="color: #0077FF;">☐</span> 📚 Publish a new certification or learning path
-</p>
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire%20Natas-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 
 </div>
 
-</div>
+<br/>
 
-<br>
+### 🗺️ Development Timeline
 
-<!-- ============================================== -->
-<!--         📊 GITHUB STATS                       -->
-<!-- ============================================== -->
+```
+2021 ─┬─ First steps into backend development (Python & scripting)
+      │
+2022 ─┼─ Deep dive into Linux internals & C# (.NET MVC) applications
+      │
+2023 ─┼─ Node.js / TypeScript stack, modern full-stack architecture
+      │
+2024 ─┼─ Security track begins — OverTheWire Natas, TryHackMe, NetAcad
+      │
+2025 ─┼─ Completed Natas [35/35] | Built V-Tunnel, POS systems, bots
+      │
+2026 ─┴─ Prompt Engineering specialization | Open to collaboration
+```
+
+<br/>
+
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=📊%20WEEKLY%20STATS&fontSize=28&fontColor=00FF41&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0A0E17&title_color=00FF41&text_color=AAAAAA&icon_color=0077FF" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=synthwave&hide_border=true&bg_color=0A0E17&title_color=00FF41&text_color=AAAAAA" width="47%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=synthwave&hide_border=true&background=0A0E17&ring=00FF41&fire=0077FF&currStreakLabel=FFD700&sideLabels=0077FF" width="68%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&hide_border=true&bg_color=0A0E17&color=00FF41&line=0077FF&point=00FF41&area=true&area_color=00FF41" width="88%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/here-is-leo)
 
 </div>
 
-<br>
+<br/>
 
-<!-- ============================================== -->
-<!--         💭 PHILOSOPHY                         -->
-<!-- ============================================== -->
+### 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:00FF41,100:0077FF&height=80&section=header&text=💭%20PHILOSOPHY&fontSize=26&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-<br>
-
-<div style="background: linear-gradient(135deg, rgba(13, 17, 23, 0.9), rgba(22, 27, 34, 0.7)); border-left: 5px solid #00FF41; border-radius: 18px; padding: 28px 35px; max-width: 780px; margin: 0 auto;">
-
-<p style="color: #FFD700; font-size: 22px; font-style: italic; text-align: center;">
-  "Security is not a product, but a process."
-</p>
-
-<p style="color: #8899AA; font-size: 15px; text-align: center; margin-top: -6px;">
-  — <strong style="color: #00FF41;">Bruce Schneier</strong>
-</p>
-
-<p style="color: #C8C8C8; font-size: 15.5px; line-height: 2.2; text-align: center; margin-top: 12px;">
-  I build things that work, then I try to break them — because a system you haven't attacked yourself isn't a system you understand. <span style="color: #00FF41; font-weight: bold;">Backend code should be boring</span> in the best way: predictable, documented, and hard to misuse. Everything else is where the interesting problems live.
-</p>
+| Project | What's Next |
+|---|---|
+| **[pos-system](https://github.com/here-is-leo/pos-system)** <br/> Full-featured point-of-sale system. Backend built with Node.js, Express & Prisma; frontend with React & Next.js — all in TypeScript. Covers inventory, sales, and real-world retail flows end-to-end. <br/> `Node.js` `Express` `Prisma` `React` `Next.js` `TypeScript` | **[Endpng](https://github.com/here-is-leo/Endpng)** <br/> Specialized project — actively evolving. |
+| **[overthewire-natas](https://github.com/here-is-leo/overthewire-natas)** <br/> A complete, structured walkthrough guide covering all 35 levels of the Natas web-security wargame. <br/> `HTML` `CSS` `JavaScript` | **[here-is-leo.github.io](https://github.com/here-is-leo/here-is-leo.github.io)** <br/> Personal portfolio site. `CSS` |
+| **[V-Tunnel](https://github.com/here-is-leo/V-Tunnel)** <br/> Telegram Mini App for managing DNS & proxy configurations directly from Telegram. <br/> `Python` `HTML` `CSS` `JavaScript` | **[ui-ux-pro-max-skill](https://github.com/here-is-leo/ui-ux-pro-max-skill)** <br/> UI/UX-focused tooling project. `Python` |
+| **[kali-linux-complete-guide](https://github.com/here-is-leo/kali-linux-complete-guide)** <br/> A 40+ page comprehensive guide to Kali Linux — setup, tools, and offensive-security workflows. <br/> `HTML` `CSS` `JavaScript` | |
+| **[Bale-Bot](https://github.com/here-is-leo/Bale-Bot)** <br/> A messaging bot built for the Bale platform. <br/> `Python` | |
+| **[N3XUS](https://github.com/here-is-leo/N3XUS)** <br/> Arduino-based control system with a web interface for real-time hardware management. <br/> `HTML` | |
+| **[Marshall](https://github.com/here-is-leo/Marshall)** <br/> Arduino control system with modular, reusable configuration architecture. <br/> `HTML` | |
+| **[inventory-bot](https://github.com/here-is-leo/inventory-bot)** <br/> Automated inventory management bot. <br/> `Python` | |
 
 </div>
 
-</div>
+<br/>
 
-<br>
+### 🎯 2026 Goals
 
-<!-- ============================================== -->
-<!--         ☕ SUPPORT ME                          -->
-<!-- ============================================== -->
+- [x] Complete OverTheWire Natas [35/35]
+- [x] Ship a full-stack POS system in production-grade architecture
+- [x] Specialize in Prompt Engineering for LLMs
+- [ ] Contribute to open-source security tooling
+- [ ] Obtain an offensive-security certification (OSCP track)
+- [ ] Launch a collaborative backend/security project with the community
+- [ ] Publish a public prompt-engineering framework/guide
+- [ ] Mentor / pair with other developers moving into backend + security
+
+<br/>
+
+### 🧠 Philosophy
+
+> *"Security is a process, not a product."*
+> — **Bruce Schneier**
+
+I write code the same way: not as a one-time delivery, but as a living process of building, testing, breaking, and rebuilding — better each time.
+
+<br/>
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-☕ Support Me
+<img src="https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=0077FF&text_color=c9d1d9&border_color=0077FF&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=dark&background=0D1117&ring=00FF41&fire=FFD700&currStreakLabel=00FF41&border=0077FF" width="49%"/>
 
-If you find my projects useful, consider supporting my work:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_color=0077FF&hide_border=false" width="49%"/>
 
-<br>
-
-<a href="https://www.coffeebede.com/leo">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/sponsors/here-is-leo">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0D1117"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&bg_color=0D1117&color=00FF41&line=0077FF&point=FFD700&hide_border=true" width="100%"/>
 
 </div>
 
-<br>
+<br/>
 
-<!-- ============================================== -->
-<!--         🏁 FOOTER                             -->
-<!-- ============================================== -->
+### ☕ Support My Work
 
 <div align="center">
 
-<strong style="color: #00FF41; font-size: 18px;">Backend Developer</strong> <span style="color: #445566;">·</span> <strong style="color: #0077FF; font-size: 18px;">Python &amp; C# Specialist</strong> <span style="color: #445566;">·</span> <strong style="color: #00FF41; font-size: 18px;">Linux &amp; Kali Security Enthusiast</strong>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&width=780&height=38&lines=BUILD+%7C+BREAK+%7C+LEARN+%7C+REPEAT;Backend+%C2%B7+Security+%C2%B7+AI;From+idea+to+production+in+record+time." alt="Footer animation"/>
-
-<br><br>
-
-⭐️ From <a href="https://github.com/here-is-leo" style="color: #00FF41; text-decoration: none; font-weight: bold; border-bottom: 1px solid rgba(0,255,65,0.2);">here-is-leo</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0077FF&height=150&section=footer" width="100%"/>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hereisleo)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-00FF41?style=for-the-badge&logo=githubsponsors&logoColor=black)](https://github.com/sponsors/here-is-leo)
 
 </div>
+
+---
+
+<h1 id="-فارسی" dir="rtl">🇮🇷 فارسی</h1>
+
+<div align="center" dir="rtl">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami;%D8%A7%DB%8C%D9%84%DB%8C%D8%A7+%D9%81%D8%B1%D8%A7%D9%87%D8%A7%D9%86%DB%8C+%E2%80%94+%D8%AA%D9%88%D8%B3%D8%B9%D9%87%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D8%A8%DA%A9%E9%86%D8%AF;%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3+%7C+%D8%A7%D9%85%D9%86%DB%8C%D8%AA+%7C+%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C+%D9%BE%D8%B1%D8%A7%D9%85%D9%BE%D8%AA" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center" dir="rtl">
+
+### 💚 درباره من
+
+**توسعه‌دهنده بک‌اند** با **۴ تا ۵ سال** تجربه واقعی در ساخت سیستم‌های عملیاتی با **Python**، **C# (MVC)**، **Node.js** و **TypeScript**. زندگی روزمره‌ام با **لینوکس** می‌گذرد (از جمله **Kali Linux**) و به هر سیستمی هم با دقت یک سازنده و هم با کنجکاوی یک شکننده نگاه می‌کنم.
+
+مسیر امنیتی من شامل تکمیل کامل **۳۵ مرحله چالش Natas** در OverTheWire، فعالیت در **TryHackMe** و گذراندن دوره‌های **NetAcad** است — چون توسعه‌دهنده‌ای که نداند سیستم چطور شکسته می‌شود، نمی‌تواند سیستمی بسازد که واقعاً پایدار بماند.
+
+این روزها تمرکز جدی روی **مهندسی پرامپت** دارم؛ طراحی دستورالعمل‌های ساختاریافته و قابل‌اعتماد برای مدل‌های زبانی، با نگاه یک رشته مهندسی واقعی، نه آزمون‌وخطای ساده.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-farahani-2160103b0)
+[![Telegram](https://img.shields.io/badge/Telegram-00FF41?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Here_is_leo)
+[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ilyafarahanii@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0E17?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/here-is-leo)
+[![Website](https://img.shields.io/badge/Website-0077FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://here-is-leo-blog.ilyafarahanii.workers.dev)
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### 🖥️ `whoami`
+
+</div>
+
+```bash
+ilia@here-is-leo:~$ whoami --full
+
+NAME        : Ilia Farahani (ایلیا فراهانی / ایلیا عزیزابادی / here-is-leo)
+ROLE        : Backend Developer
+EXPERIENCE  : 4-5 years
+STACK       : Python | C# (.NET MVC) | Node.js | TypeScript
+FOCUS       : سیستم‌های بک‌اند مقیاس‌پذیر، APIهای امن از پایه
+OS          : Linux (روزمره) | Kali Linux (تست نفوذ)
+SECURITY    : OverTheWire Natas [35/35] | TryHackMe | NetAcad
+MINDSET     : تمیز بساز. خودت بشکن. درست بساز.
+LOCATION    : Tehran, Iran
+
+ilia@here-is-leo:~$ _
+```
+
+<br/>
+
+<div dir="rtl">
+
+### 📖 درباره من — کامل‌تر
+
+🔹 **توسعه‌دهنده** — سیستم‌های بک‌اند را از ابتدا تا انتها طراحی و پیاده‌سازی می‌کنم: API، لایه داده، فرآیندهای احراز هویت و تمام زیرساخت پنهانی که یک محصول را زنده نگه می‌دارد. Node.js/TypeScript برای بک‌اندهای وب مدرن، C# MVC برای اپلیکیشن‌های ساختاریافته سازمانی، و Python برای اتوماسیون و اسکریپت‌نویسی هر چیزی که نیاز به اسکریپت داشته باشد.
+
+🔹 **اهل لینوکس** — لینوکس برای من فقط یک مهارت در رزومه نیست، محیط کار روزمره‌ام است. از مدیریت سرور تا شل‌اسکریپت‌نویسی تا فهم دقیق آنچه زیر پوسته سیستم اتفاق می‌افتد، به‌جای دور زدن سیستم، نزدیک به آن کار می‌کنم.
+
+🔹 **ذهنیت امنیتی** — تکمیل کامل ۳۵ مرحله چالش Natas در OverTheWire یک تیک ساده نبود؛ تمرینی برای این بود که پیش از نوشتن هر خط کد دفاعی، مثل یک مهاجم فکر کنم. در کنار چالش‌های TryHackMe و دوره‌های NetAcad، این دیدگاه امنیت‌محور را به هر بک‌اندی که می‌سازم می‌آورم — چون «کار می‌کند» و «امن است» دو استاندارد کاملاً متفاوت هستند.
+
+🔹 **مهندس پرامپت** — با تبدیل شدن مدل‌های زبانی به زیرساخت واقعی، طراحی پرامپت را همان‌طور که واقعاً هست دیدم: یک رشته مهندسی با ساختار، محدودیت و خروجی قابل آزمون — نه حدس و گمان. پرامپت‌ها و دستورالعمل‌هایی طراحی می‌کنم که قابل‌اعتماد، تکرارپذیر و در سطح پروداکشن باشند.
+
+🔹 **نکته جالب** — با خوشحالی یک ساعت وقت می‌گذارم تا یک کار دو‌دقیقه‌ای را اتوماتیک کنم، چون دیگر هیچ‌وقت لازم نیست آن یک ساعت را تکرار کنم. کارایی برایم دیگر یک ترجیح نیست، یک ویژگی شخصیتی است.
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### ⚡ ابرقدرت‌ها
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center" dir="rtl">
+
+**🛠️ سازنده (Builder)**
+
+طراحی و ساخت سیستم‌های بک‌اند با Python، C# و Node.js/TypeScript — معماری تمیز، در مقیاس واقعی.
+
+</td>
+<td width="33%" align="center" dir="rtl">
+
+**🔓 شکننده (Breaker)**
+
+۳۵ از ۳۵ مرحله Natas، چالش‌های TryHackMe، گواهی NetAcad. اول با ذهن حمله فکر می‌کند تا دفاع واقعاً پایدار بماند.
+
+</td>
+<td width="33%" align="center" dir="rtl">
+
+**💬 مهندس پرامپت (Whisperer)**
+
+طراحی پرامپت و دستورالعمل برای مدل‌های زبانی با همان دقت کد پروداکشن — ساختاریافته، آزموده‌شده، قابل‌اعتماد.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div dir="rtl">
+
+### 🧰 تکنولوژی‌ها
+
+</div>
+
+<div align="center">
+
+**زبان‌ها و فریم‌ورک‌ها**
+
+![Skills](https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,ts,js,react,nextjs,html,css,express,prisma,linux,bash,git,github,vscode&theme=dark)
+
+**ابزارهای امنیتی**
+
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire%20Natas-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### 🗺️ مسیر توسعه
+
+</div>
+
+```
+2021 ─┬─ اولین قدم‌ها در توسعه بک‌اند (Python و اسکریپت‌نویسی)
+      │
+2022 ─┼─ ورود عمیق به لینوکس و اپلیکیشن‌های C# (.NET MVC)
+      │
+2023 ─┼─ استک Node.js / TypeScript، معماری مدرن full-stack
+      │
+2024 ─┼─ شروع مسیر امنیت — OverTheWire Natas، TryHackMe، NetAcad
+      │
+2025 ─┼─ تکمیل Natas [35/35] | ساخت V-Tunnel، سیستم POS، بات‌ها
+      │
+2026 ─┴─ تخصص در مهندسی پرامپت | آماده همکاری
+```
+
+<br/>
+
+<div dir="rtl">
+
+### 🏆 جوایز گیت‌هاب
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/here-is-leo)
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### 🚀 پروژه‌های شاخص
+
+</div>
+
+<div align="center" dir="rtl">
+
+| پروژه | در مسیر بعدی |
+|---|---|
+| **[pos-system](https://github.com/here-is-leo/pos-system)** <br/> سیستم فروشگاهی کامل. بک‌اند با Node.js، Express و Prisma؛ فرانت‌اند با React و Next.js — همه با TypeScript. پوشش کامل موجودی، فروش و فرآیندهای واقعی خرده‌فروشی. <br/> `Node.js` `Express` `Prisma` `React` `Next.js` `TypeScript` | **[Endpng](https://github.com/here-is-leo/Endpng)** <br/> پروژه تخصصی — در حال توسعه. |
+| **[overthewire-natas](https://github.com/here-is-leo/overthewire-natas)** <br/> راهنمای کامل و ساختاریافته تمام ۳۵ مرحله چالش امنیت وب Natas. <br/> `HTML` `CSS` `JavaScript` | **[here-is-leo.github.io](https://github.com/here-is-leo/here-is-leo.github.io)** <br/> سایت شخصی. `CSS` |
+| **[V-Tunnel](https://github.com/here-is-leo/V-Tunnel)** <br/> Telegram Mini App برای مدیریت تنظیمات DNS و پروکسی مستقیماً از تلگرام. <br/> `Python` `HTML` `CSS` `JavaScript` | **[ui-ux-pro-max-skill](https://github.com/here-is-leo/ui-ux-pro-max-skill)** <br/> پروژه ابزار محور UI/UX. `Python` |
+| **[kali-linux-complete-guide](https://github.com/here-is-leo/kali-linux-complete-guide)** <br/> راهنمای جامع ۴۰+ صفحه‌ای کالی لینوکس — نصب، ابزارها و روش‌های تست نفوذ. <br/> `HTML` `CSS` `JavaScript` | |
+| **[Bale-Bot](https://github.com/here-is-leo/Bale-Bot)** <br/> رباتی برای پلتفرم پیام‌رسان بله. <br/> `Python` | |
+| **[N3XUS](https://github.com/here-is-leo/N3XUS)** <br/> سیستم کنترل مبتنی بر آردوینو با رابط وب برای مدیریت سخت‌افزار در لحظه. <br/> `HTML` | |
+| **[Marshall](https://github.com/here-is-leo/Marshall)** <br/> سیستم کنترل آردوینو با معماری پیکربندی ماژولار و قابل‌استفاده مجدد. <br/> `HTML` | |
+| **[inventory-bot](https://github.com/here-is-leo/inventory-bot)** <br/> ربات مدیریت موجودی خودکار. <br/> `Python` | |
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### 🎯 اهداف ۲۰۲۶
+
+- [x] تکمیل تمام ۳۵ مرحله چالش Natas از OverTheWire
+- [x] ساخت و عرضه یک سیستم POS کامل با معماری سطح پروداکشن
+- [x] تخصص در مهندسی پرامپت برای مدل‌های زبانی
+- [ ] مشارکت در پروژه‌های متن‌باز حوزه امنیت
+- [ ] دریافت گواهی تخصصی تست نفوذ (مسیر OSCP)
+- [ ] راه‌اندازی یک پروژه مشترک بک‌اند/امنیت با جامعه توسعه‌دهندگان
+- [ ] انتشار یک چارچوب/راهنمای عمومی برای مهندسی پرامپت
+- [ ] راهنمایی و همکاری با سایر توسعه‌دهندگانی که وارد حوزه بک‌اند و امنیت می‌شوند
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### 🧠 فلسفه
+
+</div>
+
+> *"امنیت یک فرآیند است، نه یک محصول."*
+> — **بروس شنایر (Bruce Schneier)**
+
+<div dir="rtl">
+
+کدنویسی من هم همین‌طور است: نه یک تحویل یک‌باره، بلکه فرآیندی زنده از ساختن، آزمودن، شکستن و دوباره ساختن — هر بار بهتر از قبل.
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### 📊 آمار گیت‌هاب
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=0077FF&text_color=c9d1d9&border_color=0077FF&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&theme=dark&background=0D1117&ring=00FF41&fire=FFD700&currStreakLabel=00FF41&border=0077FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_color=0077FF&hide_border=false" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=react-dark&bg_color=0D1117&color=00FF41&line=0077FF&point=FFD700&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div dir="rtl">
+
+### ☕ حمایت از من
+
+</div>
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hereisleo)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-00FF41?style=for-the-badge&logo=githubsponsors&logoColor=black)](https://github.com/sponsors/here-is-leo)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub%20Profile-here--is--leo-0A0E17?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/here-is-leo)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0077FF,100:0A0E17&height=150&section=footer&text=Build.%20Break.%20Rebuild.%20Repeat.&fontSize=22&fontColor=FFD700&animation=fadeIn" width="100%"/>
