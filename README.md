@@ -12,7 +12,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Here_is_leo"><img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="48" /></a>&nbsp;&nbsp;
+<a href="https://t.me/Here_is_leo"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Telegram.svg" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="./avatar.png" height="48" width="48" style="border-radius:8px;" /></a>
 </p>
@@ -33,7 +33,10 @@
 
 ### Security & Penetration Testing
 
-<img src="https://skillicons.dev/icons?i=kali" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Burp_Suite-1A1A1A?style=for-the-badge&logo=portswigger&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=kali,wireshark" height="48" />&nbsp;
+<img src="https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white" height="48" />&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" height="48" />&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-1A1A1A?style=for-the-badge&logo=portswigger&logoColor=white" height="48" />
 
 <br><br>
 
