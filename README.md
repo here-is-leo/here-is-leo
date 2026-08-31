@@ -12,9 +12,9 @@
 
 <p>
 <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="42" /></a>&nbsp;
-<a href="https://t.me/Here_is_leo"><img src="https://skillicons.dev/icons?i=telegram" height="42" /></a>&nbsp;
+<a href="https://t.me/Here_is_leo"><img src="https://img.shields.io/badge/Telegram-1A1A1A?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="42" /></a>&nbsp;
 <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" /></a>&nbsp;
-<a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" /></a>
+<a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" height="42" /></a>
 </p>
 
 <br><br>
