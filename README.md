@@ -12,9 +12,9 @@
 
 <p>
 <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Here_is_leo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="48" width="48" style="filter: invert(1);" /></a>&nbsp;&nbsp;
+<a href="https://t.me/Here_is_leo"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="./avatar.png" height="48" width="48" style="border-radius:8px;" /></a>
+<a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="https://avatars.githubusercontent.com/u/your-avatar-id?s=48&v=4" height="48" width="48" style="border-radius:50%;" /></a>
 </p>
 
 <br><br>
@@ -33,11 +33,11 @@
 
 ### Security & Penetration Testing
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nmap.svg" height="48" width="48" style="filter: invert(1);" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/metasploit.svg" height="48" width="48" style="filter: invert(1);" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/burpsuite.svg" height="48" width="48" style="filter: invert(1);" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wireshark.svg" height="48" width="48" style="filter: invert(1);" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/letsencrypt.svg" height="48" width="48" style="filter: invert(1);" />&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/nmap.png" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/metasploit.png" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/burp-suite.png" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/wireshark.png" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/lets-encrypt.png" height="48" width="48" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=cloudflare" height="48" />
 
 <br><br>
@@ -45,8 +45,8 @@
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" height="48" width="48" style="filter: invert(1);" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sap.svg" height="48" width="48" style="filter: invert(1);" />
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/sap.png" height="48" width="48" />
 
 <br><br>
 
