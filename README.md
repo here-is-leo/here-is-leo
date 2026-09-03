@@ -1,26 +1,38 @@
 <div align="center">
-Hi, I'm Ilia 👋
-Backend Developer & Security Enthusiast
-
-Connect with me:
-
-<p> <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="32" width="32" /></a>&nbsp;&nbsp; <a href="https://t.me/Here_is_leo"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="32" width="32" /></a>&nbsp;&nbsp; <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" width="32" /></a>&nbsp;&nbsp; <a href="https://here-is-leo.ir/"><img src="./avatar.png" height="32" width="32" style="border-radius:50%;" /></a> </p>
-Languages & Tools
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,html,css,nodejs,react,nextjs,linux,kali,bash,docker,nginx,git,postman" height="40" />
-
-
-
-Databases
-<img src="https://skillicons.dev/icons?i=sqlite" height="36" />  
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" height="36" width="36" />  
-<img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" height="36" width="36" />
-
-
-
-
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Here-is-leo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Here-is-leo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" /> </p>
-📫 ilyafarahanii@gmail.com
-🌐 here-is-leo.ir
-
+<br>
+# Hi, I'm Ilia 👋
+### Backend Developer & Security Enthusiast
+<br>
+**Connect with me:**
+<p>
+<a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
+<a href="https://t.me/Here_is_leo"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48" width="48" /></a>&nbsp;&nbsp;
+<a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
+<a href="https://here-is-leo.ir/"><img src="./avatar.png" height="48" width="48" style="border-radius:50%; object-fit:cover;" /></a></p>
+<br><br>
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,html,css,nodejs,nextjs" height="48" />
+<br><br>
+### OS & Command Line
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" height="48" />
+<br><br>
+### Databases
+<img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" height="48" width="48" />
+<br><br>
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx" height="48" />
+<br><br>
+### Other
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,postman" height="48" />
+<br><br>
+### ⚡ Technologies I Work With
+- **Backend:** ASP.NET Core, Django, Flask, Node.js, Express
+- **Frontend:** React, Next.js, TailwindCSS
+- **Security:** Network Pentesting, Web App Security, PKI & SSL/TLS
+- **Databases:** SQLite, SQL Server, Sybase
+- **DevOps:** Docker, GitHub Actions, Nginx
+- **Tools:** Git, Postman, VS Code, Visual Studio
+<br>
 </div>
