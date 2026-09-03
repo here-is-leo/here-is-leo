@@ -23,7 +23,7 @@ Connect with me:
 
 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,html,css,nodejs,nextjs,react,vue,typescript,go,rust" height="48" />
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,html,css,nodejs,nextjs" height="48" />
 
 
 
@@ -31,7 +31,7 @@ Languages & Frameworks
 
 OS & Command Line
 
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,windows,ubuntu,debian" height="48" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" height="48" />
 
 
 
@@ -39,7 +39,7 @@ OS & Command Line
 
 Security & Penetration Testing
 
-<img src="https://skillicons.dev/icons?i=kali" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Burp_Suite-1A1A1A?style=for-the-badge&logo=portswigger&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/John_The_Ripper-1A1A1A?style=for-the-badge&logo=john-the-ripper&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Hydra-1A1A1A?style=for-the-badge&logo=hydra&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/SQLMap-1A1A1A?style=for-the-badge&logo=sqlmap&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=kali" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Burp_Suite-1A1A1A?style=for-the-badge&logo=portswigger&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 
 
@@ -47,7 +47,7 @@ Security & Penetration Testing
 
 Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,redis,elasticsearch" height="48" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/SQL_Server-1A1A1A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Sybase-1A1A1A?style=for-the-badge&logo=sap&logoColor=white" />
 
 
 
@@ -55,7 +55,7 @@ Databases
 
 DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,nginx,aws,azure,gcp" height="48" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Nginx-1A1A1A?style=for-the-badge&logo=nginx&logoColor=white" />
 
 
 
@@ -63,7 +63,7 @@ DevOps & Cloud
 
 Other
 
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,gitlab,vscode,visualstudio,postman,figma,grafana,prometheus" height="48" />
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,postman" height="48" />
 
 
 
@@ -71,10 +71,12 @@ Other
 
 ⚡ Technologies I Work With
 
-· Backend: ASP.NET Core, Django, Flask, Node.js, Express, FastAPI
-· Frontend: React, Next.js, Vue.js, TailwindCSS
-· Security: Network Pentesting, Web App Security, CTF Challenges
-· Tools: Git, Docker, Postman, VS Code, Visual Studio
+· Backend: ASP.NET Core, Django, Flask, Node.js, Express
+· Frontend: React, Next.js, TailwindCSS
+· Security: Network Pentesting, Web App Security, PKI & SSL/TLS
+· Databases: SQLite, SQL Server, Sybase
+· DevOps: Docker, GitHub Actions, Nginx
+· Tools: Git, Postman, VS Code, Visual Studio
 
 <br>
 
