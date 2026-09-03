@@ -27,11 +27,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=here-is-leo&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
 
-<br><br>
-
 </div>
 
----
+<br>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+<br>
 
 <div align="center">
 
@@ -64,7 +66,9 @@
 
 <br>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+<br>
 
 ### Technologies I Work With
 
@@ -79,7 +83,9 @@
 
 <br>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+<br>
 
 <div align="center">
 
