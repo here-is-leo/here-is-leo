@@ -37,7 +37,9 @@
 <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" height="48" width="48" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" height="48" width="48" />&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="48" width="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nginx" height="48" />
+<img src="https://skillicons.dev/icons?i=nginx" height="48" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" height="48" width="48" />
 
 <br><br>
 
@@ -65,10 +67,10 @@
 
 - **Backend:** ASP.NET Core, Django, Flask, Node.js, Express
 - **Frontend:** React, Next.js, TailwindCSS
-- **Security:** Network Pentesting, Web App Security, PKI & SSL/TLS
+- **Security:** Network Pentesting, Web App Security, PKI & SSL/TLS, Penetration Testing
 - **Databases:** SQLite, SQL Server, Sybase
 - **DevOps:** Docker, GitHub Actions, Nginx
-- **Tools:** Git, Postman, VS Code, Visual Studio
+- **Tools:** Git, Postman, VS Code, Visual Studio, Burp Suite, Metasploit, Wireshark, Nmap
 
 <br>
 
