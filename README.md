@@ -12,7 +12,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Here_is_leo"><img src="https://skillicons.dev/icons?i=telegram" height="48" width="48" /></a>&nbsp;&nbsp;
+<a href="https://t.me/Here_is_leo"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="./avatar.png" height="48" width="48" style="border-radius:50%;" /></a>
 </p>
@@ -31,23 +31,11 @@
 
 <br><br>
 
-### Security & Penetration Testing
-
-<img src="https://skillicons.dev/icons?i=cloudflare" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nginx" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=visualstudio" height="48" />
-
-<br><br>
-
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="48" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" height="48" />
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" height="48" width="48" />&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" height="48" width="48" />
 
 <br><br>
 
