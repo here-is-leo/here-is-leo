@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="https://t.me/Here_is_leo"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="./avatar.png" height="48" width="48" style="border-radius:50%;" /></a>
+<a href="https://here-is-leo.ir/"><img src="./avatar.png" height="48" width="48" style="border-radius:50%;" /></a>
 </p>
 
 <br><br>
