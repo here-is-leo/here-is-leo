@@ -1,161 +1,212 @@
+
+
+
 <div align="center">
 
-<br>
+# 👋 Hey, I'm Leo
 
-# Hi, I'm Ilia 👋
+### Backend Developer • White-Hat Security • Automation
 
-### Backend Developer & Security Enthusiast
+[![GitHub](https://img.shields.io/badge/GitHub-here--is--leo-181717?style=for-the-badge&logo=github)](https://github.com/here-is-leo)
+[![Telegram](https://img.shields.io/badge/Telegram-Here__is__leo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Here_is_leo)
 
-<br>
-
-**Connect with me:**
-
-<p>
-<a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Here_is_leo"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="./avatar.png" height="48" width="48" style="border-radius:50%;" /></a>
-</p>
-
-<br>
+</div>
 
 ---
 
-<br>
+## 🟢 Your GitHub, at a glance
 
-### 📊 GitHub Stats
-
-<table align="center">
+<table>
 <tr>
-<td align="center">
-  <h3>📦 Repositories</h3>
-  <h2>67</h2>
-  <sub>Clean. Organized. Always up to date.</sub>
+<td width="50%">
+
+### 🧑‍💻 Whoami
+
+```yaml
+name: Leo
+role: Backend Developer
+focus:
+  - Backend Architecture
+  - Automation
+  - Cybersecurity
+  - Prompt Engineering
+environment:
+  - Linux
+  - Kali Linux
+mindset: "Build it clean. Break it on purpose. Understand it fully."
+```
+
 </td>
-<td align="center">
-  <h3>👥 Followers</h3>
-  <h2>428</h2>
-  <sub>Growing network of developers.</sub>
-</td>
-<td align="center">
-  <h3>👣 Following</h3>
-  <h2>102</h2>
-  <sub>Curated connections that inspire.</sub>
-</td>
-<td align="center">
-  <h3>📈 Contributions</h3>
-  <h2>1.3k</h2>
-  <sub>Consistent effort. Real impact.</sub>
+<td width="50%">
+
+📊 GitHub Snapshot
+
+Metric Value
+📦 Public repositories 11
+⭐ Public stars 0
+📌 Pinned projects 6
+🛡️ Natas 35 / 35
+🐧 Daily driver Linux
+
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+🧠 About Me
+
+I'm a backend developer who enjoys building systems from the database and API layer up.
+
+My main playground is Python, Node.js and C#, with a strong interest in Linux, automation and offensive-security labs. I like understanding how systems work internally — and then making them cleaner, faster and harder to break.
+
+I also document what I learn. My public work includes security write-ups, backend projects, Telegram bots, automation tools and hardware/web control systems.
+
+Build it clean. Break it on purpose. Understand it fully.
 
 ---
 
-<br>
+🛠️ Tech Stack
 
-### 🎯 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-farahani&layout=compact&theme=dark&hide_border=true" height="180" />
-
-<br>
-
----
-
-<br>
-
-### 🚀 Featured Projects
-
-<table align="center">
+<table>
 <tr>
-<td align="center">
-  <h3>🔒 SSLKeeper</h3>
-  <sub>SSL certificate management with Django & Let's Encrypt</sub>
-</td>
-<td align="center">
-  <h3>🔑 TokenManager</h3>
-  <sub>PKCS#11 token management tool</sub>
-</td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Security</b></td>
+<td align="center"><b>Systems</b></td>
 </tr>
 <tr>
 <td align="center">
-  <h3>📊 DevAnalytics</h3>
-  <sub>Analytics dashboard for developers</sub>
+Python<br>
+Node.js<br>
+Express<br>
+C# / ASP.NET MVC<br>
+Prisma
 </td>
 <td align="center">
-  <h3>📦 CodeStash</h3>
-  <sub>Save and share code snippets instantly</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-### 🛠️ Tech Stack
-
-#### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,html,css,nodejs,nextjs" height="48" />
-
-#### OS & Command Line
-<img src="https://skillicons.dev/icons?i=linux,kali,bash" height="48" />
-
-#### Databases
-<img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" height="48" width="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" height="48" width="48" />
-
-#### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx" height="48" />
-
-#### Other
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,visualstudio,postman" height="48" />
-
-<br>
-
----
-
-<br>
-
-### 💡 Data that tells your story
-
-<table align="center">
-<tr>
-<td align="center">
-  <h3>📈</h3>
-  <sub>Track progress over time</sub>
+TypeScript<br>
+JavaScript<br>
+React<br>
+Next.js<br>
+HTML / CSS
 </td>
 <td align="center">
-  <h3>🎯</h3>
-  <sub>Identify your strengths</sub>
+Kali Linux<br>
+OverTheWire<br>
+Natas 35/35<br>
+TryHackMe<br>
+Cisco NetAcad
 </td>
 <td align="center">
-  <h3>🚪</h3>
-  <sub>Build credibility that opens doors</sub>
+Linux<br>
+Git<br>
+Arduino<br>
+Web-connected IoT<br>
+Telegram Bots
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+🔥 Featured Projects
+
+🛡️ OverTheWire Natas
+
+Complete bilingual write-up of the 35 Natas levels, with vulnerability analysis, defenses and examples.
+
+🧾 POS System
+
+A full retail platform built around a real backend architecture, including orders, inventory and a modern web frontend.
+
+🌐 V-Tunnel
+
+Telegram Mini App for managing network configurations, built with Python and web technologies.
+
+🐧 Kali Linux Complete Guide
+
+A bilingual, interactive Kali Linux reference and learning guide.
+
+🤖 Bale-Bot
+
+Python messaging bot built for the Bale platform.
+
+⚙️ N3XUS
+
+Arduino-based control system with a web interface and hardware integration.
 
 ---
 
-<br>
+📈 GitHub Activity
 
-### ⚡ Technologies I Work With
+<div align="center">
 
-- **Backend:** ASP.NET Core, Django, Flask, Node.js, Express
-- **Frontend:** React, Next.js, TailwindCSS
-- **Security:** Network Pentesting, Web App Security, PKI & SSL/TLS
-- **Databases:** SQLite, SQL Server, Sybase
-- **DevOps:** Docker, GitHub Actions, Nginx
-- **Tools:** Git, Postman, VS Code, Visual Studio
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
-<br>
+</div>
+
+---
+
+💻 Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+🛡️ Security Journey
+
+```text
+OverTheWire Natas     ████████████████████  35/35
+Linux                 ███████████████████░  Daily
+Kali Linux            ██████████████████░░  Security Lab
+TryHackMe             ███████████████░░░░░  Active Learning
+```
+
+Security isn't a badge for me — it's a way of thinking.
+
+I learn by breaking systems in legal, controlled environments, understanding the vulnerability, and documenting the lesson.
+
+---
+
+🛤️ Dev Journey
+
+```text
+2021 ─● Python / Node.js fundamentals
+2022 ─● Linux + offensive-security exploration
+2023 ─● C# / ASP.NET MVC + Telegram bots
+2024 ─● Natas 35/35 + Arduino/web control systems
+2025 ─● POS System + V-Tunnel + deeper Linux tooling
+2026 ─● Prompt engineering + LLM-assisted workflows
+```
+
+---
+
+🎯 2026
+
+☐ Ship a public prompt-engineering toolkit
+☐ Contribute to an open-source security project
+☐ Push pos-system toward production-ready v2
+☐ Publish more Kali Linux research/write-ups
+☐ Explore LLM-integrated backend architectures
+☐ Expand V-Tunnel into a broader network-tools suite
+
+---
+
+🧩 Philosophy
+
+Security is not a product, but a process.
+— Bruce Schneier
+
+---
+
+<div align="center">
+
+🚀 Build. Break. Learn. Repeat.
+
+Made with curiosity and too much time in the terminal.
 
 </div>
