@@ -39,7 +39,7 @@ OS & Command Line
 
 Security & Penetration Testing
 
-<img src="https://skillicons.dev/icons?i=kali" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Metasploit-1A1A1A?style=for-the-badge&logo=metasploit&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Burp_Suite-1A1A1A?style=for-the-badge&logo=portswigger&logoColor=white" />&nbsp;<img height="48" src="https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=kali" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cloudflare" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=letsencrypt&logoColor=white" height="48" />
 
 
 
@@ -47,7 +47,7 @@ Security & Penetration Testing
 
 Databases
 
-<img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/SQL_Server-1A1A1A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Sybase-1A1A1A?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=sap&logoColor=white" height="48" />
 
 
 
@@ -55,7 +55,7 @@ Databases
 
 DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker" height="48" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;&nbsp;<img height="48" src="https://img.shields.io/badge/Nginx-1A1A1A?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=white" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="48" />
 
 
 
