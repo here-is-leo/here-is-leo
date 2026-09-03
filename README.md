@@ -12,7 +12,7 @@ Connect with me:
 
 <p>
 <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Here_is_leo"><img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="48" /></a>&nbsp;&nbsp;
+<a href="https://t.me/Here_is_leo"><img src="https://skillicons.dev/icons?i=telegram" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="./avatar.png" height="48" width="48" style="border-radius:8px;" /></a>
 </p>
@@ -39,7 +39,7 @@ OS & Command Line
 
 Security & Penetration Testing
 
-<img src="https://skillicons.dev/icons?i=kali" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cloudflare" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=letsencrypt&logoColor=white" height="48" />
+<img src="https://skillicons.dev/icons?i=cloudflare" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="48" />
 
 
 
@@ -47,7 +47,7 @@ Security & Penetration Testing
 
 Databases
 
-<img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=sap&logoColor=white" height="48" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="48" />
 
 
 
@@ -55,7 +55,7 @@ Databases
 
 DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=white" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="48" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=githubactions" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="48" />
 
 
 
