@@ -12,7 +12,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Here_is_leo"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48" width="48" /></a>&nbsp;&nbsp;
+<a href="https://t.me/Here_is_leo"><img src="https://skillicons.dev/icons?i=telegram" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="mailto:ilyafarahanii@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" width="48" /></a>&nbsp;&nbsp;
 <a href="https://here-is-leo-blog.ilyafarahanii.workers.dev"><img src="./avatar.png" height="48" width="48" style="border-radius:50%;" /></a>
 </p>
@@ -34,20 +34,20 @@
 ### Security & Penetration Testing
 
 <img src="https://skillicons.dev/icons?i=cloudflare" height="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" height="48" width="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" height="48" width="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="48" width="48" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nginx" height="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="48" width="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" height="48" width="48" />
+<img src="https://skillicons.dev/icons?i=github" height="48" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="48" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="48" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="48" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=visualstudio" height="48" />
 
 <br><br>
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=sqlite" height="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" height="48" width="48" />&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" height="48" width="48" />
+<img src="https://skillicons.dev/icons?i=mysql" height="48" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="48" />
 
 <br><br>
 
@@ -67,10 +67,10 @@
 
 - **Backend:** ASP.NET Core, Django, Flask, Node.js, Express
 - **Frontend:** React, Next.js, TailwindCSS
-- **Security:** Network Pentesting, Web App Security, PKI & SSL/TLS, Penetration Testing
+- **Security:** Network Pentesting, Web App Security, PKI & SSL/TLS
 - **Databases:** SQLite, SQL Server, Sybase
 - **DevOps:** Docker, GitHub Actions, Nginx
-- **Tools:** Git, Postman, VS Code, Visual Studio, Burp Suite, Metasploit, Wireshark, Nmap
+- **Tools:** Git, Postman, VS Code, Visual Studio
 
 <br>
 
