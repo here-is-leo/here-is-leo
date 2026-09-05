@@ -123,7 +123,7 @@
 
 <div align="center">
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <br>
 
