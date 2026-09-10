@@ -13,7 +13,7 @@
 **Connect with me**
 
 <p>
-  <a href="https://www.linkedin.com/in/ilya-farahani-2160103b0">
+  <a href="https://www.linkedin.com/in/ilya-farahani">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Here_is_leo">
