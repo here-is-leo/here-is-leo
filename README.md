@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- Animated cyberpunk hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:151A4D,75:5B21B6,100:EC4899&text=ILIA%20FARAHANI&fontColor=FFFFFF&fontSize=52&fontAlignY=35&animation=twinkling&desc=BACKEND%20ENGINEER%20%20%E2%80%A2%20%20SECURITY%20ENTHUSIAST&descAlignY=56&descSize=17&descColor=67E8F9" width="100%" alt="Animated cyberpunk header" />
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                           ULTIMATE HERO                               -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&repeat=true&width=850&height=60&lines=%3E+Initializing+Ilia's+profile...;%3E+Building+secure+backends+%F0%9F%9A%80;%3E+Scanning+for+new+challenges...;%3E+Access+granted.+Welcome+%F0%9F%91%8B" alt="Animated terminal typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,25:111827,55:312E81,80:7C3AED,100:DB2777&text=ILIA%20FARAHANI&fontColor=FFFFFF&fontSize=58&fontAlignY=32&animation=twinkling&desc=BACKEND%20ENGINEER%20%20%7C%20%20SECURITY%20ENTHUSIAST%20%20%7C%20%20BUILDER&descAlignY=53&descSize=17&descColor=67E8F9" width="100%" alt="Ilia Farahani animated hero banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2100&pause=650&color=67E8F9&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%3E+Booting+Ilia's+profile...;%3E+Designing+secure+backend+systems;%3E+Exploring+the+attack+surface;%3E+Turning+ideas+into+production+code;%3E+System+ready.+Let's+build+%F0%9F%9A%80" alt="Animated terminal introduction" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5A0?style=for-the-badge&logo=statuspage&logoColor=white" alt="Online status">
-<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20SECURITY-67E8F9?style=for-the-badge&logo=target&logoColor=white" alt="Current focus">
-<img src="https://komarev.com/ghpvc/?username=here-is-leo&label=PROFILE+SCANS&color=EC4899&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-00F5A0?style=for-the-badge&labelColor=0B1220" alt="System online">
+<img src="https://img.shields.io/badge/⚡_FOCUS-BACKEND_✦_SECURITY-67E8F9?style=for-the-badge&labelColor=0B1220" alt="Focus backend and security">
+<img src="https://komarev.com/ghpvc/?username=here-is-leo&label=PROFILE+VIEWS&color=DB2777&style=for-the-badge&labelColor=0B1220" alt="Profile views">
 
 <br><br>
 
@@ -22,71 +25,105 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22D3EE,35:6366F1,70:A855F7,100:EC4899" alt="Neon divider">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,25:6366F1,50:A855F7,75:EC4899,100:F97316" alt="Animated neon divider" />
 
-## 🧬 `$ whoami`
+<div align="center">
+
+## 🧠 `whoami`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3600&pause=1000&color=A855F7&center=true&vCenter=true&width=850&height=35&lines=Backend+developer+with+a+security-first+mindset;I+build%2C+break%2C+learn%2C+and+build+better;Clean+code+%7C+Hard+problems+%7C+Curious+mind" alt="Animated profile summary" />
+
+</div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-```text
-┌──────────────────────────────────────────┐
-│  ILIA FARAHANI // BACKEND DEVELOPER      │
-├──────────────────────────────────────────┤
-│  ▸ I design APIs that scale               │
-│  ▸ I harden systems before attackers do   │
-│  ▸ I automate the boring stuff            │
-│  ▸ I learn by building                    │
-└──────────────────────────────────────────┘
+```console
+┌──────────────────────────────────────────────┐
+│  ILIA FARAHANI // DIGITAL IDENTITY           │
+├──────────────────────────────────────────────┤
+│  role       :: Backend Developer              │
+│  mindset    :: Security-first                 │
+│  toolkit    :: APIs · Linux · Databases       │
+│  mission    :: Make complex things reliable   │
+│  status     :: Learning / Building / Shipping  │
+└──────────────────────────────────────────────┘
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&bg_color=050816&color=67E8F9&line=A855F7&point=EC4899&area=true&hide_border=true&custom_title=ACTIVITY%20SIGNAL" width="100%" alt="Animated activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=here-is-leo&bg_color=0B1220&color=67E8F9&line=A855F7&point=EC4899&area=true&hide_border=true&custom_title=LIVE%20ACTIVITY%20SIGNAL" width="100%" alt="GitHub activity signal" />
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=760&height=35&lines=Clean+architecture+%7C+Secure+systems+%7C+Curious+mind" alt="Profile motto">
-
-</div>
+<details>
+<summary><b>🔍 Open my developer profile</b></summary>
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:EC4899,35:A855F7,70:6366F1,100:22D3EE" alt="Neon divider">
-
-<div align="center">
-
-## ⚡ Power Stack
-
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,nodejs,express,django,flask,react,nextjs,html,css,tailwind&theme=dark&perline=7" alt="Programming languages and frameworks">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,kali,bash,git,github,vscode,visualstudio,postman,wordpress&theme=dark&perline=6" alt="DevOps, OS, and tools">
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🗄️ Data Layer
 
 <table>
 <tr>
-<td align="center" width="230">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="80" height="80" alt="SQLite"><br>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite badge">
+<td width="33%" align="center"><b>🧱 BUILD</b><br><sub>Scalable APIs<br>Reliable services<br>Clean architecture</sub></td>
+<td width="33%" align="center"><b>🛡️ PROTECT</b><br><sub>Secure defaults<br>Threat modeling<br>Web security</sub></td>
+<td width="33%" align="center"><b>🧪 EXPLORE</b><br><sub>New technologies<br>Linux internals<br>System design</sub></td>
+</tr>
+</table>
+
+```yaml
+principles:
+  - readable code beats clever code
+  - security is a feature, not a final checklist
+  - automate what humans repeat
+  - every bug is a lesson with a stack trace
+```
+
+</details>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F97316,25:EC4899,50:A855F7,75:6366F1,100:22D3EE" alt="Animated neon divider" />
+
+<div align="center">
+
+## ⚡ Technology Arsenal
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,nodejs,express,django,flask,react,nextjs,html,css,tailwind&theme=dark&perline=7" alt="Languages and frameworks" />
+
+<br><br>
+
+### DevOps, Operating Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,kali,bash,git,github,vscode,visualstudio,postman,wordpress&theme=dark&perline=6" alt="DevOps operating systems and tools" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🗄️ Database Core
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="95" height="95" alt="SQLite" />
+<br><br>
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite badge" />
+<br>
+<sub>Lightweight • Embedded • Fast</sub>
 </td>
-<td align="center" width="230">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="80" height="80" alt="Microsoft SQL Server"><br>
-<img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server badge">
+<td align="center" width="300">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="95" height="95" alt="Microsoft SQL Server" />
+<br><br>
+<img src="https://img.shields.io/badge/MICROSOFT_SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server badge" />
+<br>
+<sub>Enterprise • Relational • Powerful</sub>
 </td>
 </tr>
 </table>
@@ -95,63 +132,54 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22D3EE,35:6366F1,70:A855F7,100:EC4899" alt="Neon divider">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:22D3EE,25:6366F1,50:A855F7,75:EC4899,100:F97316" alt="Animated neon divider" />
 
-## 🛠️ Mission Modules
+## 🎯 Capability Matrix
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### `01` Backend Systems
+### ⚙️ BACKEND
 
-```diff
-+ ASP.NET Core        + Django / Flask
-+ Node.js / Express   + RESTful APIs
-+ Clean Architecture  + Authentication
-+ Performance tuning  + Background jobs
-```
-
-</td>
-<td width="50%" valign="top">
-
-### `02` Security Lab
-
-```diff
-+ Web application security
-+ Network penetration testing
-+ PKI and SSL/TLS
-+ Linux hardening
-+ Threat-aware development
-```
+<img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"><br>
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"><br>
+<img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"><br>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"><br>
+<img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs">
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### `03` Delivery Pipeline
+### 🛡️ SECURITY
 
-```diff
-+ Dockerized services
-+ GitHub Actions
-+ Nginx reverse proxy
-+ Reproducible deployments
-+ Monitoring mindset
-```
+<img src="https://img.shields.io/badge/WEB_SECURITY-7C3AED?style=flat-square&logo=owasp&logoColor=white" alt="Web security"><br>
+<img src="https://img.shields.io/badge/PENTESTING-EF4444?style=flat-square&logo=kalilinux&logoColor=white" alt="Penetration testing"><br>
+<img src="https://img.shields.io/badge/PKI_&_SSL%2FTLS-0EA5E9?style=flat-square&logo=letsencrypt&logoColor=white" alt="PKI and SSL TLS"><br>
+<img src="https://img.shields.io/badge/LINUX_HARDENING-F59E0B?style=flat-square&logo=linux&logoColor=white" alt="Linux hardening"><br>
+<img src="https://img.shields.io/badge/THREAT_MODELING-DB2777?style=flat-square&logo=securityscorecard&logoColor=white" alt="Threat modeling">
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### `04` Engineering Rules
+### 🚀 DELIVERY
 
-```diff
-+ Readable beats clever
-+ Secure by default
-+ Automate repeatable work
-+ Test the edge cases
-+ Keep learning
-```
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"><br>
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"><br>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"><br>
+<img src="https://img.shields.io/badge/CI%2FCD-6366F1?style=flat-square&logo=gitlab&logoColor=white" alt="CI CD"><br>
+<img src="https://img.shields.io/badge/AUTOMATION-14B8A6?style=flat-square&logo=ansible&logoColor=white" alt="Automation">
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🧠 MINDSET
+
+<img src="https://img.shields.io/badge/CLEAN_CODE-22C55E?style=flat-square&logo=refinedgithub&logoColor=white" alt="Clean code"><br>
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-8B5CF6?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="System design"><br>
+<img src="https://img.shields.io/badge/DEBUGGING-F97316?style=flat-square&logo=bugcrowd&logoColor=white" alt="Debugging"><br>
+<img src="https://img.shields.io/badge/LEARNING-06B6D4?style=flat-square&logo=bookstack&logoColor=white" alt="Learning"><br>
+<img src="https://img.shields.io/badge/SHIPPING-EC4899?style=flat-square&logo=rocket&logoColor=white" alt="Shipping">
 
 </td>
 </tr>
@@ -161,47 +189,73 @@
 
 <div align="center">
 
-## 📡 System Metrics
+## 📊 GitHub Command Center
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=EC4899&text_color=E5E7EB&ring_color=A855F7&include_all_commits=true&count_private=true" alt="GitHub statistics">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=E5E7EB&langs_count=8" alt="Top languages">
+<img src="https://github-profile-trophy.vercel.app/?username=here-is-leo&theme=onestar&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="100%" alt="GitHub trophies" />
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&hide_border=true&background=050816&ring=EC4899&fire=F97316&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=here-is-leo&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=EC4899&text_color=E5E7EB&ring_color=A855F7&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=here-is-leo&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=E5E7EB&langs_count=8" alt="Top languages" />
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=here-is-leo&hide_border=true&background=0B1220&ring=EC4899&fire=F97316&currStreakLabel=67E8F9&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:EC4899,35:A855F7,70:6366F1,100:22D3EE" alt="Neon divider">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F97316,25:EC4899,50:A855F7,75:6366F1,100:22D3EE" alt="Animated neon divider" />
 
 <div align="center">
 
-## 🐍 Contribution Protocol
+## 🐍 Contribution Energy
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
 
-<sub>Every commit is another signal in the grid.</sub>
+<br>
+<sub>Every contribution adds another pulse to the grid.</sub>
 
 </div>
 
 <br>
 
+<details>
+<summary><b>📡 Expand the transmission</b></summary>
+
+<br>
+
+```bash
+$ connect --profile ilia-farahani
+
+[+] Establishing secure connection...
+[+] Loading backend modules............. done
+[+] Loading security modules............ done
+[+] Loading caffeine.................... done
+[+] Connection established.
+
+> If you have an interesting problem, let's solve it together.
+```
+
+</details>
+
+<br>
+
 <div align="center">
 
-## 🌌 Current Transmission
+## 🌌 Final Transmission
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="85%" alt="Random developer quote">
-
-<br><br>
-
-<a href="mailto:ilyafarahanii@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Let's build together"></a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="86%" alt="Developer quote" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&width=750&height=35&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;May+your+builds+be+green+and+your+bugs+be+tiny+%F0%9F%90%9B" alt="Animated goodbye">
+<a href="mailto:ilyafarahanii@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_THE_FUTURE-DB2777?style=for-the-badge&logo=rocket&logoColor=white" alt="Let's build the future" /></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3300&pause=1000&color=67E8F9&center=true&vCenter=true&width=800&height=35&lines=Thanks+for+entering+my+digital+space+%E2%9C%A8;Keep+learning.+Keep+building.+Keep+it+secure+%F0%9F%94%90" alt="Animated closing message" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:EC4899,35:A855F7,70:6366F1,100:22D3EE&animation=twinkling" width="100%" alt="Animated footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:DB2777,25:7C3AED,55:312E81,80:111827,100:020617&animation=twinkling" width="100%" alt="Animated neon footer" />
