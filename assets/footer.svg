@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title">
+  <title id="title">Stay curious. Build something that matters. — here-is-leo</title>
+  <defs><linearGradient id="line"><stop stop-color="#8be9e0"/><stop offset=".55" stop-color="#c4b5fd"/><stop offset="1" stop-color="#f0abcf"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="128" rx="18" fill="#101322" stroke="#303046"/>
+  <path d="M35 1H1165" stroke="url(#line)" stroke-width="2"/>
+  <text x="48" y="60" fill="#f4f1ff" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600">Stay curious. Build something that matters.</text>
+  <text x="48" y="89" fill="#9295af" font-family="Consolas,monospace" font-size="13">One idea. One commit. One step forward.</text>
+  <text x="1152" y="73" text-anchor="end" fill="#8be9e0" font-family="Consolas,monospace" font-size="18">here-is-leo / &gt;_</text>
+</svg>
